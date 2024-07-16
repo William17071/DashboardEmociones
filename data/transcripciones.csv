@@ -1,0 +1,1356 @@
+numeroFrases;emocion;frase;idAudio
+1;Neutral;¿Aló? Buenos días, ¿Usted es el titular de la línea? Sí, sí, sí, soy yo mismo;1
+2;Neutral;¿Me puede decir su nombre, por favor? ¿Gabriel? Mire, señor Gabriel, le llamo de Moviselgo para ofrecerle una promoción;1
+3;Neutral;Consiste en la instalación de una línea adicional en su casa, donde usted tendrá derecho;1
+4;Neutral;Perdón, señorita, pero es que, ¿exactamente quién es usted? Mi nombre es Marcela Restrepo de Moviselgo y estamos llamando;1
+5;Neutral;Sí, sí, Marcela, discúlpeme, pero para nuestra seguridad me gustaría comprobar algunos datos antes de continuar con esta conversación;1
+6;Neutral;¿Le importa? No, no tengo problema, señor;1
+7;Neutral;¿Desde qué teléfono me llama? Es que en la pantallita aquí del mío sale número privado;1
+8;Neutral;El interno mío es 1004;1
+9;Neutral;Ya, ¿y para qué departamento de Moviselgo trabaja usted? Telemarketing Activo;1
+10;Neutral;Perdón, ¿me podría dar su identificación de trabajadora de Moviselgo? Señor, disculpe, pero creo que toda esa información no es necesaria;1
+11;Enojado;Entonces, pues lamentablemente voy a tener que colgar porque es que no tengo la seguridad de hablar con una trabajadora de Moviselgo;1
+12;Neutral;Pero yo le puedo garantizar;1
+13;Neutral;Mira, Marcela, cada vez que yo llamo a Moviselgo antes de poder comenzar cualquier trámite estoy obligado a dar mis datos al recepcionista, la secretaria, el auxiliar que me pone a escuchar musiquita mientras piensa quién le chuta la pelota, y luego repetirle a la historia al analista de ventas, al analista de quejas y reclamos, al analista de solicitudes nuevas, al de solicitudes viejas, al de solicitudes no atendidas, al de solicitudes ya atendidas, y al analista nuevo que apenas está entrenando y no tiene ni idea de qué le estoy preguntando;1
+14;Neutral;Así que si usted quiere hablar conmigo, pues tendrá que identificarse;1
+15;Feliz;Está bien, señor;1
+16;Neutral;Para que esté más tranquilo, le informo que mi número de empleada es el 3459-2B2;1
+17;Neutral;Un momentico mientras lo verifico;1
+18;Neutral;No se retire, Marcela;1
+19;Neutral;Señor;1
+20;Enojado;¿Señor? ¿Señor, está ocupada aquí en la casa? Pero;1
+21;Enojado;¿Hola, señor? Señor, ¿aló? Marcela, Marcela, un momento, por favor, que toda la gente se encuentra aquí ocupada;1
+22;Neutral;Bueno, ¿Don Gabriel? ¿Don Gabriel? Aló, sí, Marcela, gracias por la espera;1
+23;Enojado;Nuestros sistemas están un poco lentos hoy;1
+24;Neutral;¿Cuál era el asunto de su llamada, perdón? Lo llamó a Moiselgo;1
+25;Neutral;Estamos llamando para ofrecerle nuestra promoción línea adicional en la que usted tiene derecho al uso de otra línea a muy bajo costo;1
+26;Neutral;¿Usted estaría enterizado, Don Gabriel? A ver, Marcela, gracias por llamar;1
+27;Neutral;Le voy a comunicar con mi mujer, que es la encargada de la sección de adquisición de productos técnicos en la casa;1
+28;Neutral;Por favor, no se retire de la línea;1
+29;Neutral;Ay, disculpe por la espera;1
+30;Neutral;¿Me puede decir su teléfono? Es que en mi pantallita solo aparece el número privado;1
+31;Neutral;1004;1
+32;Neutral;Gracias, ¿y con quién estoy hablando? Ay, con Marcela;1
+33;Neutral;Marcela, ¿qué, perdón? Marcela Restrepo;1
+34;Enojado;Ay, no;1
+35;Neutral;Perdón, ¿y cuál es su identificación de trabajadora de Moiselgo? 35-59-1212;1
+36;Neutral;Ah, no;1
+37;Neutral;Gracias por la información, Marcela, ¿y en qué la puedo ayudar? Mire, la llamo de Moiselgo;1
+38;Neutral;Estamos llamando para ofrecerle nuestra promoción línea adicional en la que usted tiene derecho a otra línea;1
+39;Neutral;¿Estaría interesada? Pues voy a ingresar su solicitud en nuestro programa de nuevas adquisiciones;1
+40;Neutral;Y dentro de algunos días nos contactamos;1
+41;Feliz;Vamos con usted;1
+42;Neutral;¿Puede anotar el número de ingreso al programa, por favor? Hola;1
+43;Neutral;Hola;1
+44;Feliz;Hola, buenas tardes;2
+45;Feliz;Gracias por llamar al servicio de atención al cliente;2
+46;Neutral;Mi nombre es Laura, con quien tengo el gusto de hablar y en que puedo ayudarle hoy;2
+47;Neutral;Buenas tardes, mi nombre es Gabriela y quiero cancelar mi suscripción;2
+48;Enojado;Lamento escuchar eso;2
+49;Enojado;¿Puedo preguntar por qué deseas cancelar tu suscripción? Simplemente ya no estoy utilizando el servicio;2
+50;Neutral;Entiendo;2
+51;Neutral;¿Hay algo en particular que podríamos mejorar para que su experiencia sea más satisfactoria? No, realmente no tengo tiempo para usarlo;2
+52;Neutral;Comprendo;2
+53;Neutral;Entonces permítame informarle sobre algunas opciones que podrían ser de su interés;2
+54;Neutral;Tenemos un plan más económico que podría ajustarse a mejorar su uso actual;2
+55;Neutral;¿Le gustaría conocer más detalles? No, gracias;2
+56;Neutral;Solo quiero cancelar;2
+57;Neutral;Ok, de acuerdo;2
+58;Neutral;Entonces déjeme recordarle que esta llamada está siendo grabada y monitoreada;2
+59;Neutral;Y;2
+60;Neutral;De acuerdo a su decisión, vamos a proceder con la cancelación que necesita;2
+61;Neutral;Para este momento necesitamos confirmar algunos datos;2
+62;Neutral;¿Podría usted proporcionarme, por favor, el número de cuenta y el número de su cédula? Sí, claro;2
+63;Neutral;La línea es 314-400-000;2
+64;Neutral;Y el número de cédula es 1015-742-2400;2
+65;Neutral;Ok, perfecto;2
+66;Neutral;Dame un momento;2
+67;Neutral;Vamos a oler estos datos;2
+68;Neutral;Mi nombre es Cristian Castro, bienvenido, claro, en servicio a clientes, ¿qué le puedo colaborar? Hola Cristian, buenas tardes;3
+69;Enojado;Cristian, ¿es para cancelar un plan que tengo con ustedes? Claro, sí señor;3
+70;Neutral;¿Un servicio que usted desea cancelar, es servicio hogar o servicio móvil? Es servicio hogar, por favor;3
+71;Neutral;Ok, ¿usted es el titular del servicio? Sí señor;3
+72;Neutral;Vale, permítame por favor su número de documento;3
+73;Neutral;Sí claro, es 1000;3
+74;Neutral;Sí;3
+75;Neutral;52;3
+76;Neutral;Sí;3
+77;Neutral;52;3
+78;Neutral;Vale, Camilo permítame, voy a verificar en la base de datos, de igual manera le recuerdo que la llamada está siendo grabada y monitoreada por efectos de calidad, ¿bueno? Permítame un momento;3
+79;Feliz;Vale, gracias;3
+80;Neutral;¿Señor Camilo? Sí señor, aquí estoy;3
+81;Neutral;Permítame un momento por favor, que tenemos dificultades técnicas, pero ya en un momento tenemos esa información y para ello poder proceder con la cancelación, permítame;3
+82;Feliz;Vale, muchas gracias, muy amable;3
+83;Neutral;Gracias;3
+84;Neutral;Gracias;3
+85;Neutral;Gracias;3
+86;Neutral;Gracias;3
+87;Neutral;Gracias;3
+88;Neutral;Gracias;3
+89;Neutral;Gracias;3
+90;Neutral;Gracias;3
+91;Neutral;Gracias;3
+92;Neutral;Gracias;3
+93;Neutral;Gracias;3
+94;Neutral;Gracias;3
+95;Neutral;Gracias;3
+96;Neutral;Gracias;3
+97;Neutral;Gracias;3
+98;Neutral;Gracias;3
+99;Neutral;Gracias;3
+100;Neutral;Gracias;3
+101;Neutral;Gracias;3
+102;Neutral;Gracias;3
+103;Neutral;Gracias;3
+104;Neutral;Gracias;3
+105;Neutral;Gracias;3
+106;Neutral;Gracias;3
+107;Neutral;Gracias;3
+108;Neutral;Gracias;3
+109;Neutral;Gracias;3
+110;Neutral;Gracias;3
+111;Neutral;Gracias;3
+112;Neutral;Gracias;3
+113;Neutral;pues ninguna deuda con la compañía;3
+114;Neutral;Ah, perfecto, pues sí, entonces yo cancelo los 23 mil pesos y ya con eso quedaría cancelada la línea, ¿cierto? Claro, sí, señor;3
+115;Neutral;Si usted me permite, le puedo dar el número del servicio para que usted se pueda acercar a los centros de servicio de Claro y poder realizar este pago y ya en este caso pueda hacer la cancelación vía telefónica nuevamente o ahí mismo en los centros de servicio puede solicitar la cancelación junto con el desprendible de pago;3
+116;Feliz;Uy, sí, por favor, muy amable;3
+117;Feliz;Vale, sí, señor, con todo el gusto;3
+118;Neutral;Señor Camilo;3
+119;Enojado;Sí, acá sigo, qué pena contigo;3
+120;Neutral;Muchas gracias;3
+121;Feliz;Vale, con gusto;3
+122;Neutral;Lo voy a dejar entonces en una encuesta;3
+123;Neutral;Agradeceríamos muchísimo que por favor respondiera para poder calificar el servicio que le ofrecí en este momento;3
+124;Feliz;Bueno, buena tarde;3
+125;Feliz;Vale, con gusto;3
+126;Feliz;Muchas gracias, señor Camilo;3
+127;Feliz;Claro, muy buenas tardes;4
+128;Neutral;Mi nombre es Alejandro Gutiérrez;4
+129;Neutral;¿En qué le puedo colaborar? Hola, Alejandro;4
+130;Neutral;Muchas gracias;4
+131;Neutral;Alejandro, lo que pasa es que estoy interesado en cambiarme a Claro con algún plan móvil;4
+132;Neutral;¿Me puedes ayudar, por favor? Claro, sí, señor;4
+133;Feliz;Con todo el gusto;4
+134;Neutral;¿Con quién tengo el gusto de hablar? Con Cristian;4
+135;Feliz;Vale, mucho gusto;4
+136;Neutral;Señor Cristian, ¿usted desea realizar la portabilidad? Sí, señor;4
+137;Neutral;Vale;4
+138;Neutral;¿Me podría brindar su número de documento, por favor, para registrar la ayuda? Claro, sí, señor;4
+139;Neutral;Mira, es 1020-5285;4
+140;Neutral;Ok;4
+141;Neutral;¿Su nombre completo es? Cristian Alejandro de la Cruz;4
+142;Feliz;Vale, señor Cristian;4
+143;Neutral;Bueno, señor Cristian, por efectos de calidad, esta llamada está siendo grabada y monitoreada por efectos de calidad;4
+144;Neutral;Bueno;4
+145;Neutral;Perfecto;4
+146;Neutral;Le comento, ¿se puede realizar la portabilidad? Veo que usted es de servicio de telefonía WOM y, pues, por tal motivo, ¿se puede realizar esta portabilidad? ¿Qué se requiere? Simplemente usted se puede dirigir a cualquiera de nuestros servicios, centros de servicios de Claro, puede adquirir la SIM card y, en ese momento, se hace todo el diligenciamiento que lo hacen directamente nuestros asesores para que pueda ingresar la información requerida y así hacerse esa portabilidad;4
+147;Neutral;Generalmente dura 24 horas ese proceso;4
+148;Neutral;Ok, perfecto;4
+149;Neutral;Cristian Alejandro, que estén a tu me puede, por favor, confirmar qué planes tiene disponibles los precios;4
+150;Feliz;Claro, sí, señor;4
+151;Neutral;Tenemos cuatro planes en este momento de servicio post pago;4
+152;Neutral;Un van depende de la demanda que usted requiera;4
+153;Neutral;¿Tiene de pronto presente cuánto estaba consumiendo más o menos en el otro operador? Pues yo tengo actualmente un plan en donde, digamos, que tengo dos siglas de Internet con WhatsApp, Facebook, Instagram ilimitado y minutos y mensajes nacionales ilimitados;4
+154;Neutral;Ok;4
+155;Neutral;Muy parecido a este y pues abre el precio;4
+156;Neutral;Bueno, justamente le iba a ofrecer esto ya que me mencionó primero los dos gigas;4
+157;Neutral;Tenemos uno que es de 70 gigas ilimitado, tiene el servicio de, perdón, ilimita lo que es Facebook, lo que es Instagram, lo que es WhatsApp y YouTube y 70 gigas obviamente para otro tipo de consumo;4
+158;Neutral;Lo que es llamadas tanto internacionales, llamadas nacionales son, es ilimitado también, no tiene ningún costo adicional;4
+159;Neutral;Ok;4
+160;Neutral;Pero un valor de 23 mil pesos;4
+161;Neutral;Ahora, justo en esta temporada, en este mes de julio, estamos en promoción y por ese motivo estamos en este precio pues porque estamos en la temporada de fiestas, obviamente, y por esa razón estamos dando este ofrecimiento para los que desean hacer esta portabilidad;4
+162;Neutral;Es exclusivo para los que desean hacer esta portabilidad, señor Cris;4
+163;Feliz;Ah, vale, Alejandro;4
+164;Feliz;Entonces, perfecto;4
+165;Feliz;Muchas gracias, eres muy amable;4
+166;Neutral;Entonces, yo me acercaré a una de las oficinas para realizar;4
+167;Neutral;Muchas gracias;4
+168;Enojado;Señor Crisan, tiene un costo de 3 mil pesos la SIM card;4
+169;Feliz;Ya el resto del proceso es de ningún costo y como le comentaba, la portabilidad dura aproximadamente 24 horas, ¿buena? Perfecto, eres muy amable;4
+170;Neutral;Muchas gracias;4
+171;Neutral;No, no, señor;4
+172;Feliz;Con todo el gusto y le deseo una feliz tarde;4
+173;Feliz;Que esté muy bien;4
+174;Neutral;Igualmente;4
+175;Neutral;Hasta luego;4
+176;Neutral;Vamos al servicio Claro;5
+177;Neutral;Mi nombre es Néstor Ricaurte;5
+178;Neutral;¿En qué le puedo colaborar? Hola, buenas tardes, Néstor;5
+179;Neutral;Sí, Néstor, lo que pasa es que estoy interesado en cambiarme, o sea, seguir con ustedes, pero cambiarme de plan;5
+180;Neutral;¿Me puedes ayudar, por favor? Claro, sí, señor;5
+181;Neutral;¿Con quién tengo el gusto? Hablas con Nicolás;5
+182;Feliz;Nicolás, mucho gusto;5
+183;Neutral;Señor Néstor, ¿usted es el titular de la línea? Sí, Néstor, yo soy el titular;5
+184;Neutral;Bueno, permítame, por favor, su número de documento;5
+185;Neutral;Sí, claro, es 1019;5
+186;Neutral;Sí;5
+187;Neutral;120;5
+188;Neutral;120;5
+189;Neutral;Ok;5
+190;Neutral;Permítame un momento, por favor, señor Nicolás;5
+191;Neutral;Vale;5
+192;Neutral;Sí;5
+193;Feliz;Vale, señor Nicolás;5
+194;Neutral;Veo que tiene un plan de;5
+195;Neutral;Sí, señor;5
+196;Neutral;Sí, señor, ese es el que tengo actualmente;5
+197;Neutral;¿Y usted tiene pensado aumentar más la capacidad o reducirla? Perdón, no lo escuché muy bien;5
+198;Neutral;Aumentarla, por favor;5
+199;Enojado;Lo que pasa es que actualmente necesito más datos por temas de;5
+200;Enojado;de más internet por temas laborales;5
+201;Neutral;Vale;5
+202;Neutral;Bueno, pero aquí yo estoy viendo, señor Nicolás, que estaba pagando;5
+203;Neutral;Permítame;5
+204;Neutral;¿33 mil pesos? ¿Me confirma? Sí, señor;5
+205;Neutral;Sí, señor;5
+206;Neutral;Sí, señor;5
+207;Neutral;Sí, señor;5
+208;Neutral;Sí, señor;5
+209;Neutral;Sí, señor;5
+210;Neutral;Sí, señor;5
+211;Feliz;Ok, listo, perfecto;5
+212;Neutral;Bueno, en este mes justamente del mes de julio se está realizando un;5
+213;Neutral;Se diseñó un nuevo plan y pues está en este momento por 70 gigas por un valor de 50 mil pesos;5
+214;Feliz;Este plan por lo general estaba por un valor de 110 mil, pero pues como ha tenido un buen auge, buena acogida de este plan, pues por esa razón decidimos que pues obviamente todos los que son nuestros usuarios tengan la oportunidad de adquirir este servicio;5
+215;Neutral;Ese sería como el más adaptable para usted;5
+216;Feliz;Perfecto, Nelson;5
+217;Neutral;Sí, entonces, porfa, para realizar el cambio ahora mismo;5
+218;Feliz;Vale, listo;5
+219;Neutral;Entonces, necesitaría que por favor me permitiera un lapso de 5 a 8 minutos;5
+220;Neutral;Agradecería muchísimo su paciencia para que podamos realizar este proceso;5
+221;Neutral;De igual forma, tenga presente de que una vez que iniciemos este proceso va a llegar un código como mensaje de texto a su teléfono para que me lo pueda brindar y así proceder con el traslado;5
+222;Neutral;El plan vale;5
+223;Feliz;Alisa, perfecto;5
+224;Neutral;Entonces, queda atento cuando me envíen el código;5
+225;Neutral;Claro, regáleme un momento una línea, por favor;5
+226;Neutral;Señor Camilo;5
+227;Neutral;Sí, señor;5
+228;Neutral;Acabo de enviarle un mensaje de texto;5
+229;Neutral;Por favor, bríndeme el código que son de seis dígitos;5
+230;Neutral;Ok, sí, acá está;5
+231;Neutral;Entonces, llegó el 86;5
+232;Neutral;Sí;5
+233;Neutral;17, 0, 0;5
+234;Neutral;Vale;5
+235;Feliz;Perfecto, listo;5
+236;Neutral;Deme otro momento una línea, por favor;5
+237;Neutral;Vale;5
+238;Neutral;Gracias;5
+239;Neutral;Y por su espera, ya se realizó el traslado;5
+240;Neutral;Entonces, en el próximo 24 horas se estarán realizando los cambios pertinentes para que usted adquiera este mismo plan;5
+241;Neutral;Tenga presente que su corte son los días 15;5
+242;Neutral;Es decir, que una vez que genere el corte tiene cinco días donde nosotros haremos vía web, le haremos llegar la facturación, usted pueda proceder al pago y seguir utilizando esos magníficos servicios;5
+243;Neutral;Adicionalmente, este plan tiene una durabilidad de un año;5
+244;Neutral;Es decir, que;5
+245;Neutral;la cláusula de permanencia es de 12 meses, ¿de acuerdo? Perfecto, Néstor;5
+246;Feliz;Usted es muy amable, muchas gracias;5
+247;Feliz;No, no, señor Nicolás, que esté muy bien;5
+248;Feliz;Deseamos una feliz tarde;5
+249;Neutral;¿Necesita que le pueda colaborar en algo? No, eso sería todo;5
+250;Feliz;Muchas gracias, en serio;5
+251;Neutral;Bueno, a continuación voy a dejarle un servicio de encuesta para que, por favor, pueda responder;5
+252;Feliz;Agradeceríamos muchísimo la calificación de mi servicio hacia usted;5
+253;Neutral;Bueno, hasta luego;5
+254;Neutral;Aló, muy buenas tardes;6
+255;Feliz;Sí, buenas tardes;6
+256;Feliz;Don Cristian, buenas tardes;6
+257;Neutral;Me comunico de parte del área preferencial de Claro, como es el día de hoy;6
+258;Feliz;Bien, muchas gracias;6
+259;Feliz;¿Y usted cómo está? Muy bien, muchas gracias, don Cristian;6
+260;Feliz;El motivo de mi llamada es para notificarle que debido a sus excelentes pagos oportunos con nosotros, la familia Claro tiene un plan para usted de promoción por el mes de julio para que adquiera con nosotros los servicios hogares, ya que podemos ver que ya cuenta con la telefonía móvil;6
+261;Neutral;No sé si está interesado;6
+262;Enojado;No, no, la verdad no me interesa y ahorita me encuentro muy ocupado y no puedo atender su llamada;6
+263;Neutral;Don Cristian, pero digamos, ¿cuál es la razón por la cual no le interesa actualmente? Pues primero porque estoy ocupado, mi hermano, pero la segunda es porque estoy contento con el otro operador en el cual estoy actualmente;6
+264;Neutral;O pues, ¿qué servicios tienen ahorita? Sí, exacto, don Cristian;6
+265;Neutral;Bueno, pues actualmente nosotros contamos con un internet de banda ancha, parabólica y telefonía ilimitada por si gusta;6
+266;Neutral;¿Usted me puede confirmar, por favor, actualmente cuánto está pagando en el otro plan? Ciento trece mil seiscientos, más o menos;6
+267;Neutral;Ok, don Cristian;6
+268;Neutral;Pues digamos que al ser parte de allá, al ser cliente de nosotros, nosotros tenemos una promoción que los primeros seis meses usted va a pagar por internet de banda ancha, de doscientas cincuenta gigas, parabólica que incluye más de ciento treinta canales, y telefonía fija si desea incluirla, por un total de setenta y cinco mil pesos;6
+269;Neutral;Los primeros seis meses;6
+270;Neutral;¿Usted sabe qué telefonía ya no se usa en esta generación? Sí, claro, entonces si usted gusta, pues podemos modificar el plan utilizando solo la parabólica y el internet, y eso tendría un precio de sesenta y dos mil pesos, que incluyen por las doscientas cincuenta gigas, y los más de ciento veinte canales incluidos en su plan de parabólica;6
+271;Neutral;¿Cuántas megas fue que me dijo? Doscientas cincuenta, don Cristian;6
+272;Neutral;Ok;6
+273;Neutral;¿De subida y bajada o solo de bajada? De subida y bajada, don Cristian;6
+274;Neutral;Ok;6
+275;Neutral;¿Y eso es coaxial, eso es fibra? ¿Qué es eso? Eso es fibra óptica;6
+276;Neutral;¿Y será que sí? ¿Por la zona donde yo estoy viviendo? Porque yo vivo bien abajo de Soacha;6
+277;Neutral;Más abajo de;6
+278;Feliz;Don Cristian, pues, don Cristian, digamos que nosotros ya, justamente haciendo las validaciones de los sectores en los que se encuentran nuestros clientes, vimos cómo óptimo su residencia, ya que actualmente, pues usted sabe que, claro, está en todo el montaje de mejorar su infraestructura, y actualmente la dirección que nosotros acá tenemos reportada, usted sí aplica para este cambio;6
+279;Neutral;¿Cuál dirección tiene? Disculpe;6
+280;Neutral;Don Cristian, tenemos, bueno, primero que todo, le confirmo, por favor, si su número de cédula termina en 5280;6
+281;Neutral;Sí, sí, sí;6
+282;Feliz;Ok, perfecto, don Cristian;6
+283;Neutral;Ya haciendo esa validación de identidad, le confirmo que la dirección que nosotros tenemos es la carrera 2, número 5058, apartamento 401;6
+284;Neutral;Sí, sí, sí;6
+285;Neutral;Camilo, ¿es que usted me dijo qué se llamaba? Sí, señor;6
+286;Enojado;Venga, hermano, yo estoy ahorita muy ocupado;6
+287;Neutral;Hagamos esto;6
+288;Neutral;Si me convenció, bueno, entonces, llámeme dentro de una media hora o una hora, por favor, y yo te lo diré;6
+289;Neutral;Ok, perfecto;6
+290;Neutral;Ok, perfecto;6
+291;Neutral;Ok, perfecto;6
+292;Neutral;Ok, perfecto;6
+293;Neutral;Ahorita me he dado una hora, por favor, porque ahorita estoy en una llamada y justo contesté la suya;6
+294;Neutral;Ok, don Cristian, no hay problema;6
+295;Neutral;Vale;6
+296;Feliz;Y seguimos, seguimos, hacemos, hacemos ese cambio;6
+297;Feliz;Listo, don Cristian;6
+298;Neutral;Me dice que en media hora está ya disponible;6
+299;Neutral;Sí, unos cuarenta minutos, más o menos;6
+300;Feliz;Listo, perfecto;6
+301;Feliz;Don Cristian, entonces…;6
+302;Neutral;Aló, muy buenas tardes Aló, buenas tardes Aló, muy buenas tardes Habla con Camilo, con quien tengo el gusto de hablar Con Otoniel de la Rosa Don Otoniel, muy buenas tardes En que le pueda ayudar el día de hoy Gracias, disculpe, estoy llamando a Claro, ¿cierto? Sí, señor Señor, haga un favor, es que estoy interesado En adquirir algún servicio de internet Ocar con ustedes, ¿usted me puede dar información? Claro, don Otoniel, claro que sí Primero que todo, ¿usted me puede confirmar Desde qué ciudad se comunica? Claro, de Pitalito, Huila Ok, don Otoniel, perfecto Don Otoniel, ¿tiene algún interés en especial En el plan hogar o le puedo ofrecer Varios paquetes que tenemos Y usted ya mira cuál está adecuado más A su solicitud Pues acá un vecino me dijo que tenía un servicio Como de 70 megas, 100 megas, algo así No me acuerdo si era ilimitado Pero la cosa es que tenía internet Y tenía telefonía y pagaba como 70 mil pesos Yo no sé si aquí todavía existe ese servicio Ok, don Otoniel, para verificar Primero la disponibilidad de nuestros paquetes ¿Usted me puede confirmar, por favor La dirección de su residencia? Sí, claro, calle 53 Sur Número 205 Ok, ¿es casa o apartamento, don Otoniel? Eso es casa Esa es una casa, pero es en el primer piso Ok, don Otoniel Ok, digamos que mirando acá La, la dirección que usted me Que usted me facilitó Efectivamente nosotros actualmente sí tenemos disponibilidad En ese sector Digamos que por ser el mes de Que a todos nos paga prima y todo La familia, claro, tiene un paquete especial Para usted que cuenta con Más de 120 Megas de internet ilimitados O sea, usted no va a tener ningún inconveniente Esto es a base De fibra óptica También incluyendo la telefonía que nos nombra También para yo ¿Qué saben de fibra? La fibra óptica es la nueva modalidad En la que el internet se está incorporando Para que, digamos, sea mayor La velocidad Y no se afecte, digamos, al momento Que usted sabe que a veces nosotros recibimos visitas Y la mayoría de quejas es siempre Que cuando se conecta una cantidad de personas El internet empieza o a caer O a poner más lento Entonces la fibra óptica A usted le va a facilitar a que si usted Vive con su familia, con sus hijos O llega a un visita, su internet no se verá afectado Y seguirá con la misma velocidad Que yo le estoy ofreciendo Pues acá vivimos ocho personas Los ocho vivimos, tenemos teléfono Y aquí hay un computador en la casa ¿Será que con eso sirve o no sirve? Efectivamente, don Antonio Usted no va a ver afectación al momento De que las ocho personas se encuentran en la casa Al mismo tiempo Entonces, bueno, lo que le comentaba Entonces el plan incluye más de 120 gigas ilimitadas Incluye telefonía ilimitada Para llamadas nacionales e internacionales Y también No me trapeo los pies No me trapeo los pies También por el tema de Tranquilo, don Antonio También por el tema de como es prima También este plan por 55 mil pesos Usted se lleva esto más Parabólica con más de 90 canales en HD Entonces, don Antonio No sé si usted está interesado Para proceder con la inscripción a este plan Pues, pues le soy sincero A mí no me sirve mucho el internet Pero lo hago es por la hija Que la hija va a entrar ahorita a la universidad Entonces sí, metámoslo ¿Qué necesita? ¿Qué se necesita? Perfecto, don Antonio Por favor, ¿me confirma su número de cédula? Claro, 43 43 729 729, perfecto ¿De qué ciudad, don Antonio? De Palmira, vaya De Palmira, perfecto, don Antonio Listo, don Antonio Le confirmo ¿Tiene algún correo electrónico asociado para el suyo? No, yo no uso esas cosas Pero le pregunto a mi hija Mamita, ¿usted tiene algún correo electrónico? ¿Qué aquí me están pidiendo? ¿Qué? ¿Qué? ¿Azul? Sí, azul 1984 1984 Que arroba gmail;7
+303;Neutral;com Arroba gmail;7
+304;Neutral;com Ok, don Antonio, perfecto Ya con esos datos lo que procederemos Es en este mismo correo Le llegará la factura Por favor, me confirma Si el día lunes 8 de julio Usted está disponible para que llegue Nuestros técnicos a instalarle el servicio Y me confirma si en el horario de mañana o de tarde Aquí estamos todo el día metidos Entonces pueden venir a la hora que quieran Ok, ok, don Antonio Yo dejo esto en los comentarios Entonces listo, don Antonio, eso sería todo A partir ya, digamos, le explico que los cortes Callen en cuenta que estamos a principio de mes Sus cortes serían para el 10 de julio Para el 10 de cada mes, perdón Y tiene un plazo de 5 días Después de generar la factura Para realizar el pago Le recuerdo que el pago es por 55 mil pesos Perfecto Bueno, listo, listo, listo, mano Listo, don Antonio ¿Algo más en lo que le pueda ayudar? No, muchas gracias, mano Don Antonio, una excelente tarde Bienvenido a la familia, claro;7
+305;Neutral;Buenas tardes, mi nombre es Alejandro Gutiérrez, ¿en qué le puedo colaborar? Hola Alejandro, buenas tardes;8
+306;Enojado;Alejandro, para cancelar el plan, por favor, que tengo justamente con ustedes;8
+307;Neutral;¿Con quién hablo? Camilo;8
+308;Neutral;Camilo, hágame un favor, ¿me puede dar su número de documento para verificar en el sistema? Sí, claro, es 10-10-58-60;8
+309;Neutral;Bueno, permítame un momento;8
+310;Neutral;¿Me lo repito otra vez? Ok, 10-10-10-60;8
+311;Enojado;Permita que no me está funcionando el sistema, dame un momento, por favor, en la línea;8
+312;Neutral;Perdón, repítamelo otra vez;8
+313;Enojado;Qué pena, ¿pero otra vez? Señor, así es el servicio, le tenemos un inconveniente con el sistema, pues tenga paciencia;8
+314;Neutral;Vale, no hay lío;8
+315;Neutral;10-10-10;8
+316;Neutral;Ok;8
+317;Neutral;10-10-10-60;8
+318;Neutral;Bueno, dame un momento, por favor;8
+319;Neutral;Señor Camilo, no, en el sistema no me aparece con su número de documento, ¿me lo repite, por favor? No, pero ese es el mío;8
+320;Neutral;Bueno, ok, 10-10-10-60;8
+321;Enojado;No, no aparece en el sistema, señor Camilo;8
+322;Neutral;¿Usted está seguro que usted es el titular? Sí, yo soy el titular;8
+323;Neutral;10-10, se lo repito, 10-10-40-60;8
+324;Neutral;No, es 10-10-10-60;8
+325;Neutral;10-10-70;8
+326;Neutral;No, 60;8
+327;Enojado;Ay, puta vida;8
+328;Neutral;10-10-60;8
+329;Neutral;¿Qué pasa? Sí, señor;8
+330;Neutral;No, no, señor Camilo, usted no aparece en el sistema;8
+331;Enojado;Le pediría, por favor, que se acercara mejor a los centros de servicio con su documento, porque aquí no me aparece con ese número que usted me está indicando;8
+332;Feliz;Ok, vale, muchas gracias, entonces;8
+333;Neutral;Buenas tardes, mucho gusto, mi nombre es Camilo de parte de la empresa Claro, ¿con quién tengo el gusto de hablar? Con Sonia Olaya;9
+334;Neutral;Buenas tardes doña Sonia, doña Sonia, el día de hoy me comunico con usted para informarle que tenemos una promoción para un plan móvil, no sé si está interesada en adquirirla con nosotros;9
+335;Neutral;Sí, explícame todo el proceso, ¿qué trata? Sí, claro, mira, como estamos en promoción por el mes de julio de prima, tenemos una promoción que es un plan de 70 gigas, ilimitado WhatsApp, Facebook, Instagram y YouTube Premium, minutos ilimitados y mensajes ilimitados, ya sean nacionales e internacionales, y todo esto por un plan de 75 mil pesos, si lo toma el día de hoy, no sé si estás interesada;9
+336;Neutral;Y, o sea, yo me puedo meter a todo, a todo ilimitado, o sea, no me cobran de más si me meto a Iceman;9
+337;Neutral;No, no, exacto;9
+338;Enojado;El plan tiene ese costo de 52 mil pesos y WhatsApp, Facebook, Instagram y YouTube Premium no consumen los datos que están adquiridos en el plan;9
+339;Neutral;Ya al momento de navegar en otras páginas, en otras redes sociales como Twitter, Snapchat o X, esas sí gastan planes de datos, pero digamos que las mencionadas no te disminuyen el plan;9
+340;Neutral;Sí, sí me interesa porque estoy pensando en cambiar de operador;9
+341;Feliz;Ah, perfecto;9
+342;Neutral;Vale;9
+343;Neutral;Doña Sonia, por favor, ¿me puedes facilitar tu número de cédula? 52-186-289;9
+344;Neutral;Ok, perfecto;9
+345;Neutral;¿Tienes algún correo electrónico? Sí, sonia;9
+346;Neutral;olaya;9
+347;Neutral;gmail;9
+348;Neutral;com;9
+349;Neutral;Ok, perfecto;9
+350;Neutral;Entonces, a este correo te llegará la factura de vía electrónica y te recuerdo que entonces a partir del 8 de julio, ya que estamos el día sábado, empieza a correr este nuevo plan;9
+351;Neutral;Te recuerdo que lo vas a ver en el próximo video;9
+352;Neutral;Te recuerdo que las fechas de corte son todos los 8 de cada mes y tienes 5 días hábiles después del corte para realizar los pagos, ¿vale? Listo, sí;9
+353;Feliz;Vale, muchísimas gracias;9
+354;Feliz;Vale, doña Sonia, que tenga una excelente tarde;9
+355;Feliz;Hola, muy buenas tardes;10
+356;Feliz;Muy buenas tardes;10
+357;Feliz;Mucho gusto, mi nombre es Cristian de parte de Claro, con quien tengo el gusto de hablar;10
+358;Neutral;Con Daniela Cortés;10
+359;Feliz;Hola, muy buenas tardes Daniela, ¿cómo te encuentras el día de hoy? Muy, muy bien;10
+360;Feliz;Daniela, sí, me comunico contigo porque viendo la excelente fidelización que tienes con nosotros, el día de hoy tenemos una promoción para que nosotros ya vemos acá nuestro sistema, que tú ya tienes plan de telefonía móvil con nosotros;10
+361;Neutral;Entonces tenemos una promoción para un plan hogar, no sé si estás interesada;10
+362;Neutral;¿Qué promoción es? Sí, claro, mira, te estamos ofreciendo 250 gigas de internet de fibra óptica con una parabólica que incluye 120 canales en HD, esto por un precio de 90 mil pesos;10
+363;Feliz;Este precio se mantendrá por un año, pues ya mirando la fidelidad que tú tienes y los buenos pagos que has tenido con nosotros;10
+364;Neutral;La familia, claro, no sé si estás interesada;10
+365;Enojado;Sí, 90 mil pesos durante un año, o sea, no van a subir la factura nada, nada, 90 mil netos;10
+366;Neutral;Durante los dos primeros meses son 250 gigas de internet, 120 canales en HD, por los mismos 90 mil pesos no se verá modificado ningún precio en tu factura;10
+367;Neutral;Sí, sí me gustaría, me gustaría porque yo estoy con el otro operador, estoy pagando más;10
+368;Neutral;Perfecto;10
+369;Enojado;No tengo esas gigas;10
+370;Neutral;Perfecto, entonces, por favor, a tu número;10
+371;Neutral;A tu número te voy a enviar un código de seis dígitos, me lo confirmas una vez te llegue, ¿vale? Dale;10
+372;Neutral;Y ya te lo acabé de enviar;10
+373;Neutral;52;10
+374;Neutral;52;10
+375;Neutral;16, 84;10
+376;Neutral;Ok, vale, Daniela, me confirmas, por favor, que tu cédula termina en 80;10
+377;Neutral;Sí, 52, 640, 280;10
+378;Feliz;Perfecto, listo;10
+379;Neutral;Entonces, esas modificaciones;10
+380;Neutral;Ah, bueno, me puedes, por favor, confirmar si el día lunes estás disponible en horario AM, horario PM para recibir a nuestros técnicos que te realicen instalación del producto;10
+381;Neutral;Horario PM;10
+382;Neutral;Perfecto, te recuerdo que el horario PM empieza a correr desde las 12 hasta las 5 de la tarde, ¿vale? Sí, perfecto, sí, desde las 12 yo puedo;10
+383;Feliz;Vale, perfecto, Daniela, entonces eso sería todo;10
+384;Feliz;Muchas gracias por adquirir el paquete y espero que lo disfrutes;10
+385;Feliz;Muchísimas gracias a ti;10
+386;Neutral;Gracias;10
+387;Neutral;Hasta luego;10
+388;Neutral;Hasta luego;10
+389;Neutral;Hasta luego;10
+390;Feliz;Señor Servicio Claro, muy buenas tardes;11
+391;Neutral;Mi nombre es Alejandro Gutiérrez;11
+392;Neutral;¿En qué le puedo colaborar? Muy buenas tardes, Alejandro;11
+393;Enojado;Oye, mira, lo que pasa es que me están llegando a mi celular unos mensajes donde me están ofreciendo una promoción con Claro, una promoción a hogar;11
+394;Neutral;Yo actualmente cuento con línea móvil, pero me gustaría saber de qué trata la promoción;11
+395;Neutral;Claro, sí, señora;11
+396;Neutral;¿Con quién tengo el gusto? Con Claudia Díaz;11
+397;Feliz;Claudia, mucho gusto;11
+398;Neutral;¿Usted es la titular del servicio de hogar que tiene actualmente? Sí, señor;11
+399;Neutral;Bueno, ¿podría brindarme el número de su documento, por favor? Claro, 41-580-016;11
+400;Neutral;Ok;11
+401;Neutral;¿De qué ciudad me está llamando, señora Claudia? De Bogotá;11
+402;Neutral;Vale;11
+403;Enojado;Bueno, señora Claudia, el servicio que usted tiene actualmente sí es un paquete que es inferior al que le está ofreciendo por medio del mensaje de texto;11
+404;Enojado;Veo acá que el paquete que le ofrecen es de 110 megas con solo televisión y internet;11
+405;Neutral;En este caso, no vendría con la telefonía;11
+406;Neutral;¿No habría ningún problema? ¿Con la telefonía móvil? Sí, no, telefonía local;11
+407;Neutral;No, no habría problema porque el móvil sería casi el fijo;11
+408;Feliz;Sí, tiene toda la razón, claro;11
+409;Neutral;Bueno, listo;11
+410;Neutral;Este tiene un costo de 70 mil pesos y el servicio de televisión es el servicio coaxial;11
+411;Neutral;Tiene aproximadamente 130 canales y 20 que son de;11
+412;Neutral;Canales de música;11
+413;Neutral;Canales de música;11
+414;Neutral;El internet, si es tanto de subida como de bajada, es de 70 megas, entonces no habría ningún problema;11
+415;Neutral;¿Cuántos dispositivos generalmente se van a conectar en el domicilio? Por lo mucho son tres dispositivos;11
+416;Feliz;Le queda perfecto, señora Claudia;11
+417;Neutral;Sí;11
+418;Neutral;Entonces, ¿desea que podamos hacerle una actualización a su servicio? La portabilidad, sí, sí, da una;11
+419;Feliz;Vale, perfecto;11
+420;Neutral;Pero entonces, para ello, tengo que enviarle un número de;11
+421;Neutral;Un código, perdón;11
+422;Neutral;A su teléfono, aquí me aparece el 313-58-37;11
+423;Neutral;Entonces, yo le voy a hacer llegar este número;11
+424;Neutral;Usted hace el número y usted me va a indicar el código y con eso podemos realizar la actualización;11
+425;Neutral;Tenga algo muy en cuenta, señora Claudia, que esto se renueva nuevamente el año, por un año;11
+426;Neutral;Y pues siempre los cortes se van a realizar los días 15 para que dentro de los cinco primeros días hábiles usted realice el pago, ¿vale? Sí, perfecto;11
+427;Neutral;Entonces, permítame, ahí se lo estoy enviando;11
+428;Neutral;Listo, confirmen, por favor;11
+429;Neutral;Ya voy a mirar;11
+430;Neutral;Gracias;11
+431;Neutral;10, 16, 24;11
+432;Neutral;24, ok;11
+433;Neutral;Dame un momento en la línea, por favor;11
+434;Neutral;¿Dónde está el código? ¿Dónde está el código? ¿Dónde está el código? ¿Dónde está el código? ¿Dónde está el código? ¿Dónde está el código? Perfecto, señora Claudia;11
+435;Neutral;Ya quedó registrado y actualizado;11
+436;Neutral;Entonces, durante el lapso de 24 horas, posiblemente va a aparecer en el sistema, en el televisor, sin servicio, pero es porque se están realizando las actualizaciones, pero no dura más de cinco minutos la inactividad del servicio, ¿vale? Ok, dale;11
+437;Feliz;Usted es muy amable;11
+438;Feliz;Muchísimas gracias;11
+439;Neutral;No, señora, con todo el gusto;11
+440;Neutral;¿Sería así la llamada? No sé si requiere algún otro servicio adicional;11
+441;Neutral;No, no;11
+442;Neutral;Solamente estaba interesada en este;11
+443;Feliz;Vale, perfecto;11
+444;Feliz;Entonces, le deseo una buena noche;11
+445;Neutral;Gracias;11
+446;Neutral;Gracias;11
+447;Neutral;Gracias;11
+448;Neutral;Gracias;11
+449;Neutral;Buenas tardes;12
+450;Feliz;Hola, muy buenas tardes;12
+451;Neutral;Buenas tardes, ¿hablo con la señora Sofía? Sí, habla con ella;12
+452;Neutral;Buenas tardes, doña Sofía, habla con Camilo;12
+453;Feliz;El día de hoy me comunicó con usted de parte de Claro, porque estamos haciendo un seguimiento de satisfacción de parte de nuestros clientes;12
+454;Neutral;Entonces, yo quisiera saber si la última vez que usted se comunicó con uno de nuestros asesores, que fue el día 2 de julio, para adquirir un nuevo producto con nosotros en Claro Hogar, la llamada fue de manera satisfactoria;12
+455;Feliz;Sí, sí, a mí me gustó mucho;12
+456;Neutral;Me atendió un muchacho que se llama Camilo;12
+457;Neutral;Me acuerdo nomás del nombre porque se parece al nombre de mi hijo;12
+458;Neutral;Ok, perfecto;12
+459;Neutral;O sea, que usted calificaría esa llamada como que el asesor respondió todas sus preguntas y solventó la necesidad que usted tenía en el momento;12
+460;Feliz;Sí, sí, me gustó;12
+461;Neutral;Ok, perfecto, doña Sofía;12
+462;Neutral;Entonces, bueno, eso sería todo por esta llamada;12
+463;Neutral;No sé si de mi parte el día de hoy usted tenga alguna solicitud o algo en la que yo la pueda ayudar;12
+464;Neutral;No, no, no;12
+465;Feliz;Yo tengo todo el día, tengo mis líneas y todo bien;12
+466;Feliz;Ah, listo, perfecto;12
+467;Feliz;Listo, perfecto, doña Sofía;12
+468;Neutral;Entonces, eso sería todo por el día de hoy;12
+469;Feliz;Espero tenga un resto de tarde muy feliz;12
+470;Neutral;Hasta luego;12
+471;Neutral;Ok, hasta luego;12
+472;Feliz;Hola, buenas tardes;13
+473;Feliz;Hola, buenas tardes;13
+474;Neutral;¿Halo con la señora Fernanda? Sí, habla con ella;13
+475;Feliz;Buenas tardes, doña Fernanda;13
+476;Neutral;Doña Fernanda, es para ofrecer el día de hoy un plan de Claro;13
+477;Neutral;No sé si usted está interesada;13
+478;Neutral;¿Y de qué trata el plan? El plan es un plan básico donde usted incluye 70 gigas de internet, minutos ilimitados, y este plan entonces incluye WhatsApp, Instagram ilimitados;13
+479;Enojado;¿Está interesada, sí o no? Pero, ¿cómo sería? Es que no han entendido el WhatsApp y eso;13
+480;Neutral;Ay, por Dios, señora;13
+481;Neutral;O sea, póngame, pues, cuidado;13
+482;Neutral;Usted incluye 70 gigas de internet, incluye minutos y mensajes ilimitados a nacionales e internacionales;13
+483;Enojado;Cuando usted ingresa a Instagram y a WhatsApp, no le consume los datos;13
+484;Enojado;¿Está interesada? ¿Y Facebook también? Señora, las aplicaciones que le dije, Instagram y WhatsApp, ¿y Facebook? Ay, qué joda;13
+485;Neutral;No, señora, Facebook no;13
+486;Enojado;¿Está interesada? No, no me interesa, no me interesa, no;13
+487;Neutral;No me atreve a Facebook;13
+488;Feliz;Ah, vale, listo;13
+489;Feliz;Entonces, muchas gracias;13
+490;Neutral;Hasta luego;13
+491;Feliz;Muy buenas tardes;14
+492;Feliz;Muy buenas tardes;14
+493;Neutral;¿Hablo con la señora Sonia? Sí, habla con ella;14
+494;Feliz;Hola, buenas tardes, señora Sonia;14
+495;Feliz;Señora Sonia, mucho gusto;14
+496;Neutral;Mi nombre es Cristian;14
+497;Neutral;El día de hoy me comunico con usted para ofrecerle un plan hogar con Claro;14
+498;Neutral;No sé si usted está interesada;14
+499;Feliz;Yo tengo plan hogar, pero de pronto es más económico, así me interesa;14
+500;Neutral;Ok, doña Sonia;14
+501;Neutral;Usted, por favor, ¿me puede confirmar su número de cédula? Sí, señor;14
+502;Neutral;52-913-619 de Bogotá;14
+503;Neutral;Ok;14
+504;Neutral;¿Me la puede repetir? 52-913-619 de Bogotá;14
+505;Neutral;Ok;14
+506;Neutral;Doña Sonia, el plan que yo le estoy ofreciendo, para el que la llamo el día de hoy, es para ofrecerle entonces su plan hogar, donde usted va a pagar 120 mil pesos por 150 gigas;14
+507;Neutral;De internet, de fibra óptica y parabólica de canales, de más de 200 canales;14
+508;Neutral;Esos canales todos son en HD;14
+509;Neutral;No sé si usted está interesada;14
+510;Enojado;No, está muy costoso;14
+511;Enojado;Ay, qué maristra;14
+512;Enojado;No quieren comprar los planes;14
+513;Neutral;Doña Sonia, pues realmente validando la cantidad de canales y las megas, yo creo que el precio está justo;14
+514;Enojado;No, porque yo estoy pagando ahorita menos;14
+515;Enojado;Yo pensé que era que me iba a llamar porque era menos;14
+516;Neutral;Estoy pagando 100 mil;14
+517;Neutral;Bueno;14
+518;Neutral;No, entonces, muchas gracias;14
+519;Feliz;Muchas gracias por su tiempo;14
+520;Neutral;Hasta luego;14
+521;Neutral;Hasta luego;14
+522;Neutral;¿Qué tal?;14
+523;Neutral;hola buenas tardes buenas tardes con quien tengo el gusto de hablar con Jacqueline hola Jacqueline buenas tardes habla con Juan en que le puedo ayudar el día de hoy lo que sucede es que mira que yo entro a mirar mi parabólica mis canales y no o sea no como si no tuviera yo nada acá ni de internet ni de televisión ni de nada ok usted ya aprobó reiniciando el modem de la parabólica ya reinicie como dos veces pero hace ya como una hora vuelvo a reiniciar por favor pero será que si porque es que otra vez reiniciando y reiniciando eso si doña Sonia es necesario que se reinicie el modem para ver si de pronto así soluciona que pena mi nombre es Jacqueline ah listo si vale doña Jacqueline entonces puede reiniciar el modem bueno voy a reiniciarlo a ver ojalá que funcione ok me confirmo ya ya lo estoy reiniciando pero ya ya se está llegando pero yo miro para que eso no tenga ningún sentido no doña Sonia lo que usted me está doña Jacqueline lo que usted me está solicitando no tiene sentido pero entonces me confirma cuando se reinicie el modem total ya ya se reinició que hago ahora a ver entonces por favor por favor en el televisor doña Sonia no me interrumpa gracias cálmese doña Jacqueline ya puede verificar entonces si la parabólica le corre correctamente me confirma no nada por eso le digo que yo no puedo hacer el trabajo era para que viniera alguien acá hacer el favor entonces en un momento la transfiero al área encargada pues porque según acá yo estoy viendo que todo le funcionaba doña Jacqueline bueno si señor hasta luego;15
+524;Neutral;¿Aló? ¿Aló? Buenas tardes, ¿con quién tengo el gusto de hablar? Con Daniela;16
+525;Feliz;Daniela, buenas tardes;16
+526;Enojado;Lo que pasa es que acá en nuestra base de datos nos reporta que usted quiere cancelar el plan con nosotros, con Claro, ¿es correcto? Sí, sí, sí, señor;16
+527;Enojado;¿Por qué lo quiere cancelar? Porque ya no quiero tener Claro, quiero tener otro, quiero probar con otro;16
+528;Enojado;Ay, qué fastidio;16
+529;Enojado;¿Y por qué lo quiere cancelar? O sea, específicamente, ¿por qué? Porque quiero, o sea, porque ya quiero cambiar de;16
+530;Enojado;Sí, doña Sonia, pero, doña Daniela, qué pena, pero usted me tiene que ser más específico, porque, o sea, si lo quiere cancelar es por algo, ¿no? Porque pronto quiero conseguir uno más económico;16
+531;Enojado;Pero más económico, yo siento que el que ya tiene es muy económico, ¿no le parece? No, porque es que se va mucho, a veces no tengo el internet, se cae mucho;16
+532;Feliz;Ah, bueno, ah, listo;16
+533;Neutral;Pues, doña Daniela, nada, entonces, pues, entonces yo era solo para confirmar que quería cancelar el plan, en unos momentos se comunicarán del área encargada para cancelar el plan, ¿listo? Bueno, sí;16
+534;Feliz;Bueno, ojalá que sea rápido;16
+535;Neutral;Bueno, hasta luego, chao;16
+536;Neutral;Hasta luego;16
+537;Feliz;Hola, buenas tardes;17
+538;Neutral;Buenas tardes;17
+539;Neutral;¿Aló, con la señora Carolina? Sí, señor;17
+540;Neutral;Hola, buenas tardes, señora Carolina;17
+541;Neutral;Bueno, me comunico de parte del área de calidad para verificar si últimamente usted ha tenido buena percepción de parte de Claro;17
+542;Enojado;La verdad no, la verdad no, no me he sentido satisfecha con la atención de Claro;17
+543;Enojado;¿Y por qué no? Porque, por ejemplo, yo otra semana, el señor Daniel Lalo, que fue a la internet y se cayó;17
+544;Neutral;Qué fácil, señora;17
+545;Neutral;Y ya me dijo el señor Teodorao;17
+546;Neutral;Ah, bueno, pero ¿y usted hizo los reinicios del modem? Sí, yo hice todo, yo hice todo el trabajo;17
+547;Enojado;No creo, no creo, pero bueno, ¿y aparte de eso tiene alguna otra inconformidad en precio o algo? No, pues no, el precio es un poquito alto porque se manofreció más económico;17
+548;Feliz;Ah, bueno;17
+549;Neutral;Bueno, doña Carla, entonces pues yo no veo como inconformidad muy grande y todo, igual nosotros anotamos eso para tenerlo presente, ¿listo? Bueno;17
+550;Neutral;Bueno, bueno, hasta luego;17
+551;Neutral;Aló, muy buenas tardes;18
+552;Neutral;Buenas tardes;18
+553;Neutral;Aló con la señora Carolina;18
+554;Neutral;Sí, señor;18
+555;Feliz;Buenas tardes, doña Carolina;18
+556;Neutral;Nos comunicamos de acá;18
+557;Neutral;Claro, es para informarle el día de hoy que estamos haciendo una promoción;18
+558;Neutral;No sé si usted está interesada en adquirirla;18
+559;Neutral;¿Podrías contarme de qué trata? Bueno, sí;18
+560;Neutral;La promoción es un plan móvil de minutos ilimitados que haya nacionales e internacionales;18
+561;Neutral;El mensaje es igual y incluye 70 gigas de internet;18
+562;Neutral;Y ese plan tiene un valor de 50 mil;18
+563;Enojado;¿Está interesada, sí o no? Sí, pues, ¿podrías darme un poquito más de información sobre él? Qué fastidiosa señora;18
+564;Neutral;Pues no, pues esa es la información como general;18
+565;Neutral;O sea, realmente es los 70 gigas, minutos ilimitados, mensajes ilimitados;18
+566;Neutral;Y, bueno, de pronto hay adicional;18
+567;Neutral;A ver si le funciona a usted;18
+568;Enojado;Es de que no incluye los datos;18
+569;Enojado;No incluye, o sea, al momento de utilizar Facebook, Instagram y WhatsApp, no le consumen datos;18
+570;Neutral;Entonces, no sé si está interesada;18
+571;Neutral;Pues agradecería mucho si tratas de ser un poco más suave con lo que dices y me explicas un poco más sobre la información;18
+572;Enojado;Qué joda;18
+573;Neutral;No, señora, entonces dejemos así;18
+574;Neutral;Muchas gracias;18
+575;Feliz;Que tenga una feliz tarde;18
+576;Neutral;OK;18
+577;Neutral;Buenas tardes, mi nombre es Otoniel Gutiérrez, ¿en qué le puedo colaborar? Buenas tardes, es que estoy interesada en comprar un celular;19
+578;Neutral;Claro, ¿con quién tengo el gusto? Con Catalina;19
+579;Neutral;Catalina, vale;19
+580;Neutral;Catalina, ¿usted ya tiene servicio con nosotros o es primera vez? Ya tengo servicio con usted;19
+581;Neutral;Bueno, deme su documento de identidad, hágame el favor;19
+582;Neutral;Rápido;19
+583;Neutral;1-0-33-720-489;19
+584;Neutral;¿4-39? 4-89;19
+585;Neutral;4-69? 89;19
+586;Enojado;¿Se puede ubicar un poquito más cerca al teléfono, señora? Hágame el favor;19
+587;Neutral;¿Ahí lo escuchas? No, no lo escucho, no lo escucho;19
+588;Neutral;¿Ahí? Sí;19
+589;Neutral;¿Qué número? 1-0-33-720-489;19
+590;Neutral;Vale, ¿y qué teléfono está interesada en este momento? Estoy interesada en comprar un iPhone;19
+591;Neutral;Sí, obvio, pero ¿qué modelo de iPhone? Un iPhone 15;19
+592;Neutral;Ah, un iPhone 15;19
+593;Neutral;Bueno, hay de diferentes precios, depende del paquete que usted va a utilizar;19
+594;Neutral;¿Usted va a utilizarlo con un paquete con plan postpago o solamente quiere comprar el teléfono? No, solamente estoy interesada en el teléfono;19
+595;Neutral;Bueno, listo;19
+596;Neutral;Ahí tengo el iPhone 15, tiene un coste de 2 millones de pesos, y el iPhone 15 Pro tiene un coste de 2 millones;19
+597;Neutral;¿Cuál quiere comprar? ¿Cuál quiere comprar? ¿Cuál es mejor? ¿Podrías decirme tú? No, ya tendría que usted mirar en la página para ver detalles técnicos;19
+598;Neutral;¿Algo más le puedo colaborar, señora? ¿Algunos modelos más tienes de iPhone? No, por el momento solo se maneja esos tipos de modelos;19
+599;Feliz;Vale, gracias;19
+600;Feliz;Bueno, que estén muy bien;19
+601;Neutral;Hasta luego;19
+602;Neutral;Buenas tardes;19
+603;Neutral;Gracias por llamar a la vez;19
+604;Neutral;Hasta luego;19
+605;Neutral;Hola, buenas tardes Buenas tardes ¿Con quién tengo el gusto de hablar? Con Catalina ¿Contactándome con Claro? Sí, aquí es Claro, sí, señora Catalina ¿Qué necesita? Es que estoy interesada en contratar un servicio de internet para la casa ¿Y ya sabe qué plan quiere? No, realmente, pero;20
+606;Neutral;Podrías contarme, pero por favor, rápido Es que estoy muy afanada Bueno, pues digamos que para ese tipo de cosas, pues digamos que el afán no es como muy bueno Pero bueno, yo le explico ¿Actualmente ya cuenta con algún plan hogar de otra línea? No, señor Ok, bueno, digamos que tenemos un plan básico No sé si pronto se necesiten muchas gigas o pocas gigas Bueno, ¿me puede confirmar desde qué ciudad se comunica? Para ver la disponibilidad ¿Puedes repetirme otra vez más, Juro, por favor? ¿Qué es eso? Lámpara ¿Qué ciudad se comunica? Lo siento, no te escucho ¿Qué ciudad se comunica, señora Catalina? De Bogotá Ah, ok Por favor, ¿me confirma si es al norte o al sur de la ciudad? Al sur, por Marruecos ¿Puedes apurarte, por favor? Ok, bueno, doña Catalina, entonces le ofrezco un plan, no sé si le sirva realmente Que es de 100 gigas Es una parábola de 100 gigas, ¿no? Es una parábola básica, realmente no tiene muchos canales Los que tiene no son en HD Y tiene telefonía y ese plan vale 130 mil ¿Les sirve? ¿Tienes uno más económico? Sí, Catalina, tenemos uno donde las gigas ya bajan a la mitad Entonces, digamos, bueno, digamos que en este caso, digamos, hay por;20
+607;Enojado;Si quiere comprarlo, uno es de 60 gigas, 50 canales Y este no incluye telefonía y ese vale 80 mil pesos ¿Qué es eso? ¿Qué es eso? ¿Ese o qué? No sé, otro más económico que tenga Pero rápido, por favor Sí, esta señora No, doña Catalina, no tenemos más Entonces, no sé si le interesa ese último que le ofrecí Ay, no, muchas gracias Hasta luego;20
+608;Feliz;Bienvenidos a Claro, muy buenas tardes;21
+609;Neutral;Mi nombre es Alejandro Gutiérrez;21
+610;Neutral;¿En qué le puedo colaborar? Buenas tardes, Alejandro;21
+611;Neutral;Sí, es para reportar una queja;21
+612;Neutral;Sí, cuénteme;21
+613;Enojado;Lo que pasa es que desde ayer no tengo internet en mi casa, entonces quisiera saber por qué pasa esto con Camilo;21
+614;Neutral;Camilo, bueno, ¿y usted es el titular del servicio? Sí, señor;21
+615;Neutral;Regáleme el número de su celular, por favor;21
+616;Neutral;Rápido;21
+617;Neutral;Es 1-020-2558;21
+618;Neutral;¿Camilo Andrés Gutiérrez? Camilo Andrés Gutiérrez, sí, señor;21
+619;Enojado;Vale, ¿y cuál es el incomete que se le está presentando? Sí, desde ayer no tengo internet;21
+620;Neutral;Dame un momento, estoy verificando;21
+621;Feliz;No, pero aquí estoy viendo que el servicio está funcionando correctamente;21
+622;Neutral;¿Usted ya ha apagado los dispositivos? ¿Los ha vuelto a conectar? Sí, ya los reinicié, los desconecté;21
+623;Neutral;Sí, incluso anoche dejé todo el modem desconectado para saber si era eso;21
+624;Enojado;¿Y por qué no se comunicó con nosotros durante el transcurso de la noche? Porque me intenté comunicar, pero no contestaron, Alejandro;21
+625;Feliz;Qué lindo, un momento;21
+626;Enojado;Ah, bueno, es que estoy viendo que está una falla en servicio de la zona;21
+627;Neutral;Ok, pero entonces yo quisiera saber si eso también, porque digamos, bueno, me quedo sin internet, pero ¿usted me va a descontar ese tiempo de la factura? No, claro que no;21
+628;Neutral;El contrato sigue alargando, pues porque no es una falla ocasionada por parte de nosotros;21
+629;Neutral;Es directamente ocurrido por;21
+630;Neutral;Por técnicas de fallas naturales;21
+631;Enojado;Pueden ser, por no sé, un rayo, la lluvia;21
+632;Neutral;Pero igual;21
+633;Neutral;No, no, ok, pues no, no está novio porque tampoco es culpa mía;21
+634;Enojado;Entonces yo, porque si tengo que pagar por el;21
+635;Neutral;O sea, entiende pronto que si usted no controla;21
+636;Enojado;Señor Camilo, si usted no se ha dado cuenta, en la letra chiquita siempre aparece, siempre aclaramos ese tipo de inconvenientes que se llegan a surgir;21
+637;Enojado;Pero, pero, no, pero, qué raro porque a mí;21
+638;Neutral;Ok, bueno, pues, bueno, yo igual;21
+639;Neutral;Entonces, ¿y cómo hago entonces para generar una queja de que entonces quiero cancelar el contrato? Ubíquese, mire, en los centros de servicios de Claro se puede ubicar y ahí pueden con mucho gusto darle la atención que necesitan;21
+640;Feliz;Ok, vale, muchas gracias;21
+641;Neutral;Pero es la misma información que les estoy suministrando;21
+642;Feliz;Vale, Alejandro, hasta luego, muchas gracias;21
+643;Neutral;Ajá;21
+644;Neutral;Buen día, Alejandro Gutiérrez, ¿en qué le puedo colaborar? Hola, Servicio Claro;22
+645;Feliz;Hola Alejandro, buenas tardes, muchas gracias;22
+646;Neutral;Hablas con Camilo;22
+647;Enojado;Lo que pasa es que es para quejarme un tema de mi plan móvil;22
+648;Enojado;Cuéntame Camilo, ¿en qué le puedo colaborar? Lo que pasa es que, no sé, o sea, últimamente como que me toca reiniciar mucho el celular o me toca ponerlo en modo avión para que los datos me funcionen porque se me van de la nada y quedo incomunicado por varios, o sea, como a veces incluso por varias horas;22
+649;Neutral;¿Hogar o móvil? Móvil;22
+650;Neutral;Permítame un momento, lo trasfero a la línea de móvil;22
+651;Neutral;Pero o sea, no es acá;22
+652;Neutral;No, permítame hermano;22
+653;Neutral;Ok;22
+654;Feliz;Gracias por su permanencia en la línea;22
+655;Neutral;Yo lo estoy trasferiendo;22
+656;Feliz;Ok, vale, gracias;22
+657;Neutral;Buenas tardes, habla Camilo Farfán;22
+658;Neutral;¿En qué le puedo colaborar? Hola Camilo, buenas tardes;22
+659;Neutral;Lo que pasa es que, no sé, bueno, creo que sí, este ya es el departamento encargado;22
+660;Enojado;Lo que pasa es que tengo un inconveniente con mi línea móvil que me toca reiniciar el celular o poner el celular en modo avión porque se me van los datos;22
+661;Neutral;¿Me puedes ayudar, por favor? ¿Su línea telefónica es 324-33-7315? 324-33-7315, sí, es esa misma;22
+662;Feliz;¿Qué pasa? Bueno, aquí me parece que el servicio está funcionando correctamente, no veo ninguna anomalía;22
+663;Enojado;No, pero Camilo, sí, sí está fallando;22
+664;Neutral;Pero permítame, le estoy hablando;22
+665;Neutral;Permítame si termino de hablar y ya sigue usted, señor;22
+666;Enojado;Mamera;22
+667;Neutral;Voy a revisar un momento dentro del sistema a ver si de pronto había alguna inconsistencia o falta alguna configuración;22
+668;Feliz;¿Ok? Vale, gracias;22
+669;Neutral;Gracias;22
+670;Neutral;Bueno, listo, señor;22
+671;Neutral;Acabo de revisar;22
+672;Neutral;Estoy reiniciando en este momento los servicios dentro de su telefonía;22
+673;Neutral;Es posible que durante la conversación de esta llamada se pueda caer, pero es para informarle que el sistema se va a estar reiniciando con el fin de que se pueda de pronto mejorar;22
+674;Feliz;Pero sea buenísimo;22
+675;Neutral;Permítame que estamos verificando con el fin de poderle mejorar sus servicios;22
+676;Neutral;Hola, si servicios, habla Lissimaco Castro, ¿en qué le puedo colaborar? Hola, buenas, perdón, ¿con quién hablo? Lissimaco Castro;23
+677;Neutral;Ok, vale;23
+678;Enojado;Hola, bueno, hablas con Carlos, lo que pasa es que tengo un inconveniente aquí con la factura que me llegó de mi plan hogar;23
+679;Enojado;¿Qué problema tiene con esa factura? Ok, me llegó por un precio más elevado de lo que se había acordado;23
+680;Neutral;Señor Castro, ¿usted es el titular de la línea? Sí, señor;23
+681;Neutral;Dígame su número de documento, hágame el favor;23
+682;Neutral;¿Qué cambio? Mil ciento;23
+683;Neutral;Ok, bueno, le pido por favor un poco de receta porque creo que, o sea, necesito solventar eso y creo que está como un poco dispuesto, entonces mi cédula es;23
+684;Neutral;¿Mil ciento cinco? Sí;23
+685;Neutral;Cincuenta y dos ochenta y seis;23
+686;Neutral;Tranquilo, señor Castro, igual le he estado llamando, está siendo monitoreada y supervisada para el efecto de calidad;23
+687;Neutral;Permítame un momento en la línea;23
+688;Neutral;Ok;23
+689;Neutral;¿Qué tal el hueón aquí? ¿Qué está haciendo con el teléfono? Sí, sí, sí;23
+690;Neutral;Un más respeto a;23
+691;Neutral;Permítame un momento en la línea, por favor, que estamos verificando en el sistema;23
+692;Feliz;Ok, vale, gracias;23
+693;Feliz;Espero que sea pronto;23
+694;Enojado;¿Qué tal el hueón? Es que yo no me quería respetar hasta el momento;23
+695;Neutral;Ay, se lo dio a poner el micrófono;23
+696;Enojado;Señor Carlos, gracias por esperar en la línea;23
+697;Enojado;Bueno, le informo, el servicio está en este momento con unas dificultades técnicas debido a que están haciendo una;23
+698;Neutral;Justamente haciendo unos cambios dentro de las antenas en el sector en el cual usted se encuentra;23
+699;Neutral;Me parece que usted está ubicado por el sector de la localidad de Kené;23
+700;Neutral;Sí, señor, en la localidad de Kené;23
+701;Neutral;Ok, sí, efectivamente;23
+702;Neutral;Entonces, señor;23
+703;Neutral;Pero;23
+704;Neutral;Señor;23
+705;Enojado;Pero, o sea, bueno, pero necesito saber, digamos, por qué la factura me llegó más cara;23
+706;Neutral;Eh;23
+707;Neutral;Es para;23
+708;Neutral;Es para;23
+709;Enojado;Hay muchas razones, porque hubo una inconsistencia dentro del sistema y por esa razón se van a hacer esas debidas correcciones, así que le pido, por favor, que se acerque a los centros de servicios más cercanos de Claro para que nosotros podamos realizar esos cambios;23
+710;Enojado;Pero, o sea, y me toca;23
+711;Neutral;Señor, permítame, por favor, terminar de hablar, le estoy explicando;23
+712;Enojado;Maricón;23
+713;Neutral;Entonces;23
+714;Neutral;Ok, entonces;23
+715;Neutral;Al ser que los centros de servicio, nosotros vamos a hacer las correcciones pertinentes, muy seguramente el asesor de ahí en la línea le va a informar de que tiene que cancelar esa factura, pero en el próximo o en la futura facturación;23
+716;Neutral;Eh;23
+717;Neutral;Se va a hacer esas correcciones donde se va a descontar los pagos que se realizaron durante este corte, ¿de acuerdo? ¿Algo más en que le ponga ahora? O sea, usted me está asegurando que si yo realizo este pago;23
+718;Neutral;O sea, o sea;23
+719;Neutral;Pero de general, o sea, que si yo pago este pago aumentado en la próxima factura se va a ver reflejado ese;23
+720;Neutral;Sí, señor;23
+721;Neutral;Sí, señor;23
+722;Feliz;Bueno, ok, bueno;23
+723;Neutral;hola buenas tardes si con quien tengo el gusto de hablar con Alejandro Alejandro buenas tardes no se si recuerde que hace mas o menos como unos 40 minutos me comunique con usted Andres para un tema de adquirir un plan hogar con nosotros ya me acorde si no no pero ya hable con mi mujer y mi mujer me dijo que no que vamos a adquirir otro servicio diferente gracias no pero Alejandro permítame porque nosotros le tenemos muy buenas promociones con claro no mi hermano usted sabe que yo le hago mas caso a mi mujer que a cualquier otra eso es un peligro no gracias viejo pero don Alejandro pues déjeme explicarle mas o menos como que promociones tengo para respéteme ok don Alejandro pero permítame porque usted me ha dicho que si va a adquirir el producto con nosotros y ahora me esta diciendo que no lo va a adquirir pero que mas puedo hacer hermano yo tengo que hacerle caso a mi mujer señor Alejandro pero usted no me ha permitido tampoco decirle que promociones nosotros podemos tener no no no gracias gracias ya no ya no muchas gracias;24
+724;Neutral;Aló, muy buenas tardes, aló con el señor Rafael;25
+725;Neutral;Hola, buenas tardes, ¿con quién hablo? Buenas tardes, don Rafael, habla con Camilo del área de soporte de Claro Móvil;25
+726;Neutral;¿Cómo se encuentra el día de hoy? Bien, sí señor, gracias, cuénteme;25
+727;Enojado;Sí, don Rafael, el motivo de mi llamada es porque hace unos días recibimos una queja de que usted estaba teniendo problemas con su servicio móvil;25
+728;Neutral;¿Estoy en correcto? Sí señor, eso fue hace más o menos como unos dos días atrás, pero me comuniqué con el área de soporte de ustedes y ya me colaboraron;25
+729;Feliz;Ok, don Rafael, ¿usted me confirmó así todo en el momento en el que llamó o se comunicó con nosotros y uno de nuestros técnicos lo apoyó? ¿Todo salió de manera satisfactoria? Sí señor, todo salió súper bien;25
+730;Feliz;Ah, listo, don Rafael, ese era todo el motivo de mi llamada;25
+731;Feliz;Muchas gracias, hasta luego;25
+732;Neutral;Hasta luego;25
+733;Neutral;Aló, muy buenas tardes;26
+734;Feliz;Hola, buenas tardes;26
+735;Neutral;¿Con quién tengo el gusto de hablar? Mira, hablas con Rafael;26
+736;Neutral;Hola, don Rafael, bienvenido al área de ventas de Claro;26
+737;Neutral;¿Cómo te puedo ayudar el día de hoy? Sí, mira, justamente me he comunicado con ustedes porque hace poco estuve interesado por unas promociones para adquirir un plan con ustedes, entonces quería comunicarme para ver si podrías darme un poco de información;26
+738;Neutral;Claro que sí, don Rafael, el plan que ustedes adquirir es plan hogar o plan móvil? Plan móvil;26
+739;Neutral;Ok, don Rafael, ¿actualmente usted cuánto paga por el plan con su operador actual? Actualmente estoy pagando 35 mil pesos;26
+740;Neutral;Ok, ¿y internet ilimitado? Sí, señor;26
+741;Neutral;Ok, don Rafael, por ser mes de prima, la familia Claro tiene una promoción especial para usted que es por 55 mil pesos;26
+742;Neutral;Le ofrecemos internet ilimitado para Facebook, WhatsApp, Instagram y Twitter;26
+743;Neutral;Minutos ilimitados tanto nacionales como internacionales y guardar mensajes de texto;26
+744;Neutral;Y para navegación externa le ofrecemos 120 gigas de navegación;26
+745;Neutral;No sé si está interesado en ese plan;26
+746;Feliz;Sí, sí, suena súper, la verdad;26
+747;Neutral;Únicamente tengo una duda;26
+748;Neutral;Dígame;26
+749;Neutral;¿Sigo manejando mi misma línea? Ah, sí, claro;26
+750;Neutral;Nosotros acá le ayudamos con la portabilidad;26
+751;Neutral;La portabilidad tiene un costo de 3 mil pesos adicionales aparte de los 55 mil pesos del plan y ya quedaría usted con el mismo número telefónico;26
+752;Neutral;¿Listo? Listo, sí, sí, dale, me parece;26
+753;Neutral;Don Rafael, por favor, ¿me regalas un número de cédula? Claro, es 1023;26
+754;Neutral;1023-790-269;26
+755;Neutral;Listo, Don Rafael, por favor, ¿me facilita un correo electrónico? Colombia2023-hotmail;26
+756;Neutral;com Ok, Don Rafael, entonces, le confirmo;26
+757;Neutral;Colombia2023-hotmail;26
+758;Neutral;com, ¿sí? Sí, señor;26
+759;Neutral;Listo, a ese correo empezaron a llegar las facturas electrónicas;26
+760;Neutral;Le recuerdo que la fecha de corte son todos los 9 de cada mes y después del corte usted tiene 5 días hábiles para realizar el pago;26
+761;Neutral;¿Sí? Sí, señor;26
+762;Neutral;¿Sí? Sí, señor;26
+763;Neutral;¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? ¿Sí? El primer mes pagará 58 mil pesos, pero ya a partir del segundo mes pagará los 55 mil pesos;26
+764;Neutral;¿Listo, Don Rafael? Listo, no hay problema;26
+765;Neutral;Listo, Don Rafael, ¿le puedo ayudar en algo más? No, no, señor, eso sería todo;26
+766;Feliz;Listo, Don Rafael, que tenga una muy buena tarde;26
+767;Neutral;Hasta luego;26
+768;Neutral;Hasta luego loca;26
+769;Neutral;Muy buenas tardes, hablo con el señor Rafael;27
+770;Feliz;Hola, buenas tardes, sí, con él hablas, ¿con quién hablo? Hola, señor Rafael, habla con Cristian, ¿cómo se encuentra el día de hoy? Súper bien, Cristian, muchas gracias por preguntar;27
+771;Feliz;Listo, don Rafael, lo que pasa es que me comunicó acá del Departamento de Fidelización de parte de Claro y estamos muy felices de decirle que el día de hoy, por su gran cumplimiento en los pagos oportunos de su plan, tanto móvil como hogar, tenemos una promoción para usted el día de hoy;27
+772;Neutral;¿Está interesado en escuchar? Sí, dale, ¿por qué no? Listo, don Rafael, veo que actualmente usted por 42 mil pesos está pagando un plan móvil de 60 gigas, ¿es correcto? Sí, señor;27
+773;Enojado;Ok, don Rafael, por ser cliente VIP, el día de hoy, claro, tiene para usted una promoción que es por los mismos 42 mil pesos, se le va a duplicar las gigas;27
+774;Enojado;Estas gigas siguen, o sea, cuando usted ingrese a Facebook, Twitter, WhatsApp e Instagram, no le sigue consumiendo datos;27
+775;Neutral;No sé, don Rafael, si está interesado en tomar esta promoción;27
+776;Neutral;¿Tiene algún costo adicional el plan o algo? No, señor, Rafael, digamos que de aquí a un año usted va a seguir pagando los mismos 42 mil pesos, pero ahora por el doble de las gigas, no sé si está interesado;27
+777;Feliz;Pues, siendo así, me parece una excelente idea;27
+778;Neutral;Listo, don Rafael, don Rafael, en estos momentos le va a enviar un código a su número telefónico de seis dígitos, ¿usted me hace el favor y me lo confirma una vez le llegue? Listo, dale, quédate en todo el código;27
+779;Neutral;Listo, don Rafael, lo acabé de enviar;27
+780;Neutral;¿Cómo es el código? ¿Me lo confirma, por favor? 6-50-7-3-3;27
+781;Feliz;Listo, don Rafael, la autenticación fue exitosa;27
+782;Neutral;Entonces, a partir del otro mes, ya que este mes ya cerró cuenta, a partir del otro mes empieza a correr esta promoción;27
+783;Neutral;Recuerde que es un año exacto con el doble de gigas por el mismo precio;27
+784;Neutral;¿Listo, don Rafael? Vale, sí, señor;27
+785;Feliz;Listo, don Rafael, que tenga una excelente tarde;27
+786;Neutral;Hasta luego;27
+787;Neutral;Nada, hasta luego;27
+788;Neutral;Muy buenas tardes, hablo con el señor Felipe;28
+789;Neutral;Hola, sí, buenas tardes, ¿con quién hablo? Hola, señor Felipe, habla con Juan del área de instalaciones de Claro;28
+790;Feliz;¿Cómo se encuentra el día de hoy? Súper bien, gracias por preguntar;28
+791;Neutral;Listo, don Felipe, le recuerdo que esta llamada está siendo grabada y monitoreada para efectos de calidad;28
+792;Feliz;Don Felipe, motive mi llamada el día de hoy es porque en nuestra base de datos me puedo visualizar que usted adquirió en estos últimos días un plan hogar con nosotros;28
+793;Neutral;¿Esto es correcto? Sí, sí, señor;28
+794;Neutral;Listo, don Felipe, esta llamada es para confirmarle a usted el día en que uno de nuestros técnicos va a realizar la instalación;28
+795;Neutral;Entonces le confirmaré las fechas que tengo disponible para usted y usted me dirá cuál se adecua más a su tiempo;28
+796;Neutral;¿Listo? Sí, vale;28
+797;Feliz;Listo, don Felipe;28
+798;Neutral;Don Felipe, tengo para este sábado de esta misma semana en hora AM, o sea, el técnico estaría llegando entre las 8 a las 12 del mediodía, o tengo el lunes todo el día disponible;28
+799;Neutral;¿Qué día le sirve más a usted? Entre esas dos opciones prefiero el sábado, ya que entre semana trabajo y el fin de semana estaría en la casa;28
+800;Feliz;Perfecto, don Felipe;28
+801;Neutral;Don Felipe, por favor, ¿me confirma los últimos tres dígitos de su cédula? Sí, claro, 083;28
+802;Feliz;Perfecto, don Felipe;28
+803;Neutral;Don Felipe, por favor, ¿me confirma si usted, la dirección que tenemos acá, está ubicada al sur de la ciudad en la carrera décima número 30-20? Sí, sí, señor, esa es la dirección;28
+804;Neutral;¿Es casa o apartamento, don Felipe? Es casa;28
+805;Feliz;Perfecto, don Felipe;28
+806;Neutral;¿Alguna referencia o es fácil de que el técnico se ubique? No, es un conjunto de rejas blancas, no hay pierde;28
+807;Feliz;Listo, don Felipe;28
+808;Neutral;Entonces, así quedamos;28
+809;Neutral;Entonces, le confirmo que el técnico se estará acercando el día sábado en las horas de la mañana y ese estará comunicando con usted a medida que vaya llegando a su hogar;28
+810;Neutral;¿Perfecto? Vale, sí, señor;28
+811;Feliz;Listo, don Felipe;28
+812;Feliz;Muchas gracias y bienvenido a la familia, claro;28
+813;Neutral;Hasta luego;28
+814;Neutral;Vale, hasta luego;28
+815;Neutral;Aló, buenas tardes, hablo con el señor Carlos;29
+816;Neutral;Hola, sí, buenas tardes, ¿con quién tengo el gusto? Hola, señor Carlos, habla con Antonio de parte de esta asignación de Claro, ¿cómo se encuentra el día de hoy? Muy bien, Antonio, cuéntame cómo te puedo ayudar;29
+817;Neutral;Sí, don Carlos, lo que pasa es que reporta aquí en la base de datos que usted últimamente ha adquirido tanto servicio móvil como servicio de hogar con nosotros, ¿es correcto? Sí, sí, señor, justamente fue esta semana;29
+818;Feliz;Ok, perfecto, don Carlos;29
+819;Neutral;Don Carlos, mi llamada es para verificar que la instalación del producto hogar se instaló en las fechas y día que usted acordó con el asesor, ¿me confirma si esto es correcto? Sí, señor, ellos vinieron, estuvieron por acá en mi casa el día sábado;29
+820;Neutral;Ok, don Carlos, don Carlos, ¿usted calificaría el servicio de los técnicos de 1 a 10 siendo 1 pésimo y 10 mejor? ¿Cuál sería la calificación que les da? La verdad, un 10, sin duda;29
+821;Feliz;Perfecto, don Carlos;29
+822;Neutral;Y como última pregunta, don Carlos;29
+823;Feliz;Don Carlos, ¿cómo le ha ido con el plan de telefonía móvil? ¿Ha tenido algún inconveniente o todo ha estado perfecto y si cumple con lo que se le prometió? No, mira, mira que muy bien;29
+824;Feliz;La verdad, no he tenido como problemas al momento de comunicarme con mis familiares o recibir llamadas y pues la verdad ha sido un servicio muy excelente, la verdad;29
+825;Feliz;Perfecto, don Carlos;29
+826;Feliz;Me alegra, don Carlos;29
+827;Neutral;No sé si tenga algún comentario, queja o felicitación para la familia, claro, que quiera dejar el día de hoy o eso sería todo por esta llamada;29
+828;Neutral;No, no, la verdad no;29
+829;Neutral;Antes es un;29
+830;Feliz;Un modo de agradecimiento porque creo que han cumplido con las expectativas y pues nada, pues acá estoy disfrutando;29
+831;Feliz;Perfecto, don Carlos;29
+832;Feliz;Don Carlos, que tenga un resto de tarde excelente;29
+833;Feliz;Muchas gracias por pertenecer a la familia, claro, y por preferirnos;29
+834;Neutral;Hasta luego;29
+835;Feliz;Vale, vale;29
+836;Neutral;Hasta luego;29
+837;Neutral;3 Hola, buenas tardes, ¿con quién hablo? Hola, buenas tardes, habla con Oscar ¿Con quién tengo el gusto de hablar? Hola Oscar, mira, hablas con Juan, la verdad no sé si de pronto marqué las opciones que eran incorrectas en el menú, pero no sé si de pronto tú me puedas colaborar con un tema que me sa;30
+838;Enojado;bueno, me sacó de aquí;30
+839;Enojado;¿Quién necesita? Mira, lo que pasa es que yo esta semana había gestionado y había cuadrado con un técnico bueno, un técnico que ustedes mismos asignaron para la instalación de Claro Hogar en mi casa, pero se había acordado de que iba a llegar el día de hoy a las 8 de la mañana pero pues mira, son las 7 de la noche y pues no he recibido respuesta, no sé qué pasó;30
+840;Neutral;Ok, ok, don Juan, ¿usted se comunicó en horas de la mañana para averiguar eso o hasta ahora se comunica con nosotros? No, hasta ahora me comuniqué, la verdad;30
+841;Enojado;Ok, don Juan Don Juan, ¿y usted en algún momento el técnico se comunicó con usted? No, o sea, te estoy diciendo, o sea, es la hora y no he recibido respuesta;30
+842;Enojado;Ay, qué marica lo bien que no vayan a instalar esto Ok, don Juan, don Juan, pues digamos que acá yo no lo puedo ayudar porque nosotros no somos el área encargada, entonces si quiere lo transfiero ¿sí? Perdón, o sea, espérame es que la verdad quiero deshacerme de este tema, es algo que me tiene fastidiado;30
+843;Neutral;Sí, don Juan, pero como le digo nosotros en esta área no lo ayudamos, entonces realmente pues de mis manos no se sale lo que yo pueda hacer es pasarlo al área encargada ¿listo? No, pero igual, es que ustedes como asesores deben saber cuál es el proceso;30
+844;Enojado;No, espérame, o sea me parece una falta de respeto que yo quiera adquirir un producto y no se ha instalado el día de mi casa;30
+845;Neutral;Ok, don Juan yo lo entiendo la molestia y todo, pero también entiéndame que yo desde este puesto y desde esta área no puedo hacer más que escalarlo al área encargada entonces realmente si usted gusta lo lo transfiero o si gusta anotar las opciones que debe marcar, ya que como ve, no es lógico las opciones que usted ha marcado Bueno, mejor prefiero hablar con otro asesor porque;30
+846;Neutral;Listo, hasta luego hasta luego;30
+847;Neutral;Aló, muy buenas tardes, hablo con el señor Armando;31
+848;Feliz;Hola, buenas tardes, sí, sí señor;31
+849;Neutral;Buenas tardes, don Armando, habla con Camilo de la área de confirmación de compra de Claro;31
+850;Neutral;¿Cómo se encuentra el día de hoy? Bien, Camilo, cuéntame;31
+851;Neutral;Sí, lo que pasa es que acá veo que usted está intentando adquirir unos productos con nosotros, lo cual es un celular y una línea telefónica con nosotros, ¿es correcto? Sí, sí, sí;31
+852;Neutral;Ok, don Armando, don Armando, para seguir con la compra de estos productos es necesario que yo verifique unos datos de su parte, ¿perfecto? ¿Que verifique qué, perdón? Que verifique unos datos suyos, ¿está de acuerdo y tiene el tiempo para ahorita realizarlo? Ah, sí, sí, sí, así dale;31
+853;Enojado;Ok, don Armando, por favor, ¿me regalaba su número de cédula? ¿Mi número de qué, perdón? Ay, qué fastidio este viejito;31
+854;Neutral;Don Armando, el número de cédula;31
+855;Enojado;Qué pena con usted, pero me puede hablar un poquito más duro, es que casi no escucho;31
+856;Enojado;Qué maricada;31
+857;Neutral;El número;31
+858;Neutral;El número de cédula, don Armando;31
+859;Neutral;¿Mi cédula? Sí, señor, la cédula;31
+860;Neutral;Ah, sí, sí, claro, es 467-24566;31
+861;Neutral;Se la confirmo, 467-24566;31
+862;Feliz;Sí, sí, señor, esa es;31
+863;Neutral;Ok, don Armando, ¿usted en qué ciudad vive? Actualmente me encuentro en Bogotá;31
+864;Neutral;Ok, don Armando, don Armando, ¿usted en qué barrio vive? ¿En dónde qué, perdón? ¿En dónde, perdón? Que, don Armando, ¿usted en qué barrio vive actualmente? Se llama Kennedy, pero acá se le dice Quintas 3;31
+865;Feliz;Ok, don Armando, perfecto;31
+866;Enojado;Entonces, don Armando, para finalizar, ¿usted me puede confirmar cuál es el celular que usted desea adquirir con nosotros? Perdón, es que no lo escucho bien, se le escucha como entrecortado, qué pena;31
+867;Neutral;Don Armando, intenta ubicarse mejor porque yo siento que la señal de esta parte está bien;31
+868;Neutral;Es que creo que es mi casa;31
+869;Enojado;Qué marica es;31
+870;Neutral;Ok, don Armando, ¿usted me puede confirmar qué celular es el que está intentando comprar? Es un Samsung A13;31
+871;Neutral;Ok, don Armando;31
+872;Neutral;Listo, don Armando, eso sería todo por el momento;31
+873;Feliz;Espero tenga un resto de tarde;31
+874;Neutral;Hasta luego;31
+875;Neutral;Vale, hasta luego;31
+876;Neutral;Aló, muy buenas tardes, me comunico con el señor Iván;32
+877;Neutral;Hola, sí, buenas tardes, ¿con quién tengo el gusto? Buenas tardes, don Iván, don Iván, no sé si recuerde que habló con Jorge hace más o menos como unas dos horas y usted me dijo que me comunicara con usted para adquirir nuestros productos;32
+878;Enojado;Ah, sí, papá, pero pues mira la hora, o sea, ya han pasado dos horas y pues la verdad no me encuentro interesado;32
+879;Neutral;Uy, pero don Iván, lo que pasa es que sí, pues de pronto una disculpa, pero usted sabe que igual a veces a uno le sale de la mano ser tan puntual, entonces pues realmente yo quiero ofrecerle las promociones para que usted adquiera los productos con nosotros;32
+880;Enojado;No, es que, o sea, en verdad no me encuentro interesado porque primero viste que me llamaba hace media hora y yo la verdad no tengo tiempo para estar dedicando tiempo a cosas que la verdad no me suman;32
+881;Enojado;Ah, pero le mando fastidiosos al hijo de puta;32
+882;Neutral;¿Cómo? Ok;32
+883;Neutral;¿Verdad? No, don Iván, lo que pasa es que usted ya me había dicho que usted iba a adquirir el producto con nosotros, entonces realmente sí entiendo el tema de la hora, pero créame que pues acá no es el único cliente al que tenemos que llamar, entonces por eso le pido que me escuche las promociones que tengo para usted;32
+884;Enojado;Vale, pero es que no veo la necesidad, si ya las escuché en su momento, cuál es la necesidad de volver a repetirlas, o sea, de verdad no me encuentro interesado;32
+885;Neutral;Pero don Iván, realmente son muy buenas promociones para usted, ¿seguro que no está interesado? No, o sea, la verdad;32
+886;Neutral;¿La verdad no quiero?;32
+887;Neutral;Hola, buenos días, mira, hablas con Mateo Sí, Mateo, ¿cómo está? Habla con Nicolás, ¿qué desea? Hola Nico, mira, la verdad necesito tu apoyo con un tema y es que tengo bastante interés por uno de los planes de Claro Hogar que ustedes están ofreciendo para estas fechas y pues la verdad quisiera que tuvieras un poco de información, no sé si me puedas colaborar con eso Pues sí, pues nada Mateo, realmente el plan, no sé, pues usted ya actualmente cuenta con algún plan de otro operador en su casa? Sí, pero pues estoy interesado en el beneficio que ustedes están ofreciendo, entonces pues no sé qué información me puede dar Y don Mateo, ¿cuánto actualmente pagan? Actualmente estoy pagando;33
+888;Enojado;Qué pena, pero creo que escuché mal ¿o qué dijiste? Nada, don Mateo, ¿cuánto actualmente está pagando? 150 150 ¿Qué? No, ¿qué, don Mateo? Pues no, don Mateo, ahí tenemos un plan que le incluye 100 megas de internet, 120 megas de internet, perdón incluye 90 canales en HD y pues telefonía limitada no sé si le interese, ¿sí o no? Sí, qué pena, de pronto yo me distraigo, me saco un poquito el tema, pero te siento algo inconforme, no sé es impresionante;33
+889;Neutral;Ah, marica, pero quiere que uno le lamba No, Mateo, realmente no, no, pero pues, o sea, le estoy diciendo la información que usted me está pidiendo, ¿le funciona este plan, sí o no? Sí, o sea, sí, únicamente tengo es por eso Ah, ok, don Mateo, listo, entonces ya lo mando al área que le va a validar los datos para realizar la instalación del producto, ¿ok? Listo, muchas gracias por tu tiempo Vale, hasta luego, chao, chao, chao;33
+890;Feliz;Hola, buenas tardes;34
+891;Neutral;Mira, la verdad no sé si marqué las opciones que eran, pero básicamente estoy buscando un asesor o lo que sea que haya por ahí que me colabore para cancelar mi plan;34
+892;Feliz;Ok, buenas tardes;34
+893;Neutral;¿Con quién tengo el gusto de hablar? Con Kevin;34
+894;Feliz;Ok, Kevin, mucho gusto;34
+895;Neutral;Habla Brian;34
+896;Enojado;¿Y por qué quieren cancelar el plan? Papi, definitivamente es un plan que no me tiene conforme, no estoy a gusto;34
+897;Enojado;Cada vez que me llega el cobro, las facturas siempre me están sumando más plata y la verdad la señal es muy mala donde sea que esté;34
+898;Enojado;O sea, simplemente es una mierda y con todo respeto, pero quiero cancelar;34
+899;Enojado;No, pero el man quiere todo perfecto, hijo de puta;34
+900;Enojado;Papi, ¿pero qué hago si ustedes ofrecen un servicio de mierda? Sí, don Kevin, pero realmente no tiene que ser grosero porque realmente acá estamos para intentar solucionar todo;34
+901;Enojado;Y si usted es grosero, pues créame;34
+902;Enojado;Yo también, entonces me pongo en una modalidad medio indispuesto;34
+903;Neutral;Bueno, eso da menos de tres tiras;34
+904;Enojado;O sea, simplemente quiero que usted me ayude a cancelar mi plan;34
+905;Neutral;Es eso, ya;34
+906;Neutral;Ok, pues nada, don Kevin, pues si usted gusta y quiere cancelar el plan, solo confirme por favor su número de cédula;34
+907;Neutral;100-780-839;34
+908;Neutral;Ok, permítame un momento;34
+909;Neutral;Dale, pues;34
+910;Feliz;Listo, don Kevin;34
+911;Neutral;Don Kevin, acá sale que usted tiene un pago pendiente ya que el mes;34
+912;Neutral;Pues ya cerró;34
+913;Neutral;Sí, señor;34
+914;Neutral;Lo que pasa es que usted recuerde que la factura se paga en el mes vencido;34
+915;Neutral;Entonces, una vez usted realice el pago por los 33 mil pesos, que es lo que vale su plan, el plan ya queda automáticamente cancelado, ¿listo? No, pero, o sea, ¿cómo así? O sea, me pongo al día, dejo de estar en Mora y usted me dice que debo plata;34
+916;Enojado;O sea, esto la verdad es absurdo;34
+917;Neutral;Pues, don Kevin, aquí eso es lo que me refleja el sistema;34
+918;Neutral;Realmente, si el sistema lo refleja es porque usted dé plata;34
+919;Feliz;Entonces, pues, si usted quiere que todo salga perfecto;34
+920;Feliz;Perfecto como lo desea;34
+921;Neutral;Entonces, por favor, cancele los 33 mil pesos;34
+922;Neutral;Ay, María, pero para cobrar sí son buenos ustedes, ¿no? Pues, don Kevin, realmente ahí sí ya no es tanto el tema conmigo, sino realmente directamente con la empresa;34
+923;Neutral;Entonces, no sé si quedó clara la información;34
+924;Neutral;Ya sabe los canales de pago, ¿listo? Bueno, sí, sí;34
+925;Enojado;Yo simplemente quiero hacer la cancelación de esta mierda;34
+926;Neutral;Bueno, hasta luego;34
+927;Neutral;Vale;34
+928;Enojado;Ah, qué maricada;34
+929;Neutral;Buenos días, gracias por comunicarse con el servicio de cancelaciones de Claro;35
+930;Neutral;Mi nombre es Mariana, ¿con quién tengo el gusto de hablar y en qué puedo ayudarle hoy? Hola Mariana, hablas con Valentina;35
+931;Enojado;El motivo de esta llamada es para cancelar mi servicio de televisión que tengo con ustedes, porque no lo estoy utilizando más y pues tampoco tengo la plata para seguirlo pagando, entonces a ver si tú me puedes ayudar por favor;35
+932;Neutral;Claro que sí señora Valentina, recuerde que esta llamada está siendo grabada para efectos de calidad;35
+933;Neutral;Vamos a empezar con una validación de datos;35
+934;Neutral;¿Podría darme nombre completo y número de cuenta por favor? Sí, el nombre completo es Valentina Piedraíta, el número de cuenta es 040622;35
+935;Neutral;Ok, vamos a validar sus datos;35
+936;Enojado;Un segundo en línea por favor;35
+937;Feliz;Claro que sí, no hay problema;35
+938;Feliz;Hemos validado sus datos y están correctos;35
+939;Neutral;Antes de proceder, ¿podría decirme cuál es la razón principal de la cancelación? Nos ayuda a entender mejor las necesidades de nuestros usuarios;35
+940;Enojado;Sí, básicamente como te decía antes, la verdad es que ya no lo estoy utilizando y tampoco en este momento me encuentro trabajando, entonces por ese motivo no tengo el dinero para seguir con ustedes;35
+941;Neutral;Entiendo;35
+942;Neutral;Voy a proceder con la cancelación y verificaré si hay algún cargo pendiente o algún detalle adicional que necesite atender;35
+943;Neutral;¿Puede esperar un momento mientras reviso su cuenta? Sí, claro, no hay problema, yo espero en la llamada;35
+944;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;36
+945;Neutral;Mi nombre es Carlos, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy;36
+946;Neutral;Gracias, ¿hablas con Sofía? El motivo de esta llamada es para ver si me puedes ayudar por favor a cancelar mi servicio de internet y telefonía que tengo con ustedes, por favor;36
+947;Neutral;Claro que sí señora Sofía, recuerde que esta llamada está siendo grabada para efectos de calidad;36
+948;Neutral;Vamos a empezar con una validación de datos;36
+949;Neutral;¿Podría darme nombre completo y número de cuenta por favor? Sí, el número, perdón, mi nombre completo es Sofía Correa, el número de cuenta es 040622;36
+950;Neutral;Ok, vamos a validar sus datos;36
+951;Enojado;Un segundo en línea por favor;36
+952;Feliz;He validado sus datos y están correctos;36
+953;Neutral;Voy a proceder con la cancelación y verificaré si hay algún cargo pendiente;36
+954;Neutral;O algún detalle adicional que necesite atender;36
+955;Neutral;¿Puede esperar un momento mientras reviso su cuenta? Sí, claro, no hay problema, yo espero en la llamada;36
+956;Feliz;Gracias por su paciencia, Sofía;36
+957;Enojado;He cancelado la suscripción y confirmo que no hay cargos adicionales;36
+958;Neutral;¿Hay algo más en lo que pueda asistirle hoy? No, la verdad no, por el momento no, solo quiero cancelar la suscripción y ya;36
+959;Neutral;Vamos entonces a proceder con el motivo de la cancelación;36
+960;Neutral;Para esto la cancelación será efectiva después de finalizar el mes;36
+961;Feliz;Eso sería todo, que esté muy bien y feliz día;36
+962;Feliz;Gracias, muchísimas gracias por tu ayuda, que estés muy bien, hasta luego;36
+963;Neutral;Buenos días, gracias por comunicarse con el servicio de cancelaciones de CLAR;37
+964;Neutral;Mi nombre es Javier, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy;37
+965;Neutral;Hola Javier, hablas con María;37
+966;Neutral;Cierra;37
+967;Enojado;¿Podrías por favor ayudarme a cancelar el servicio de mi celular que tengo con ustedes de los datos? Es que ya no lo voy a seguir utilizando;37
+968;Neutral;Entiendo señora María;37
+969;Neutral;Recuerde que esta llamada está siendo grabada para efectos de calidad;37
+970;Enojado;Es una pena que quiera cancelar el servicio con nosotros, pero entendemos sus motivos;37
+971;Neutral;Voy a empezar con el trámite;37
+972;Neutral;Sí, vale;37
+973;Feliz;Muchísimas gracias;37
+974;Feliz;Gracias por su paciencia, María;37
+975;Enojado;He cancelado la suscripción y ya no tiene ningún pendiente con nosotros;37
+976;Feliz;Que esté muy bien;37
+977;Neutral;Hasta luego;37
+978;Feliz;Ah, vale;37
+979;Neutral;Perfecto;37
+980;Feliz;Muchísimas gracias;37
+981;Feliz;Gracias, que estés muy bien;37
+982;Neutral;Hasta luego;37
+983;Feliz;Hola, buenos días;38
+984;Neutral;Gracias por comunicarse con el servicio de cancelaciones de Claro;38
+985;Neutral;Mi nombre es Mónica, con quien tengo el gusto de hablar y en qué le puedo ayudar hoy;38
+986;Feliz;Gracias, Mónica;38
+987;Neutral;Hablas con Mariana;38
+988;Enojado;Lo que pasa es que necesito cancelar el servicio con ustedes porque la verdad la señal es muy mala donde vivo y en este momento no puedo seguir teniendo ese servicio;38
+989;Neutral;Entonces, para ver si me ayudas, por favor;38
+990;Neutral;Vale, señora Mariana;38
+991;Neutral;Entendemos los motivos;38
+992;Neutral;Entonces, déjeme entonces, voy a validar, por favor, ¿me puede dictar su número de cuenta para validar la información? Sí, el número de cuenta es 22104;38
+993;Neutral;Ok, perfecto;38
+994;Neutral;Entonces déjeme, voy a validar sus datos y en un momento vuelvo con usted;38
+995;Neutral;Listo, señora Mariana;38
+996;Neutral;He encontrado el número de cuenta, entonces voy a proceder con la cancelación del servicio;38
+997;Neutral;En este momento usted tiene un pago pendiente por 200 mil pesos;38
+998;Neutral;La idea es que usted apenas;38
+999;Neutral;Realice el pago, la cancelación será efectiva;38
+1000;Neutral;Entonces, regáleme unos minutos, por favor, para cancelar el contrato en este momento;38
+1001;Neutral;Listo, señora Mariana;38
+1002;Neutral;Entonces ya quedó cancelado;38
+1003;Neutral;A partir del primero de agosto usted ya no va a tener más el servicio;38
+1004;Feliz;Entonces, muchísimas gracias por su paciencia y discúlpenos por las demoras en el servicio;38
+1005;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;39
+1006;Neutral;Mi nombre es Antonia, ¿con quién tengo el gusto de hablar y en qué puedo ayudarle hoy? Hola Antonia, hablas con Aura Lemos;39
+1007;Enojado;El motivo de esta llamada es para ver si me puedes ayudar por favor a cancelar mi cuenta porque los canales están supremamente malos, a veces la señal no coge, se le va el audio, algunos canales se les borra un poco la imagen, entonces pues la verdad estoy muy aburrida con ello y quiero cancelar por favor ese servicio inmediatamente;39
+1008;Enojado;Señora Aura, es una lástima que quiera cancelar el servicio;39
+1009;Neutral;Empezaré la cancelación de su servicio para que quede efectuado el día de hoy;39
+1010;Neutral;Mientras tanto, ¿hay algo que necesite? Ay sí, por favor, muchísimas gracias;39
+1011;Enojado;No, eso sería todo;39
+1012;Neutral;Quiero que eso quede cancelado lo más rápido posible, por favor;39
+1013;Feliz;Gracias por su paciencia, Aura;39
+1014;Neutral;En este momento su cuenta ha sido cancelada, verá reflejado los cambios al colgar esta llamada;39
+1015;Feliz;Vale, muchísimas gracias, que estés bien;39
+1016;Neutral;Hasta luego;39
+1017;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro Mi nombre es Camilo, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy Hola Camilo, hablas con Ángela Piedraíta Básicamente necesito que me ayudes por favor a cancelar el servicio que tengo en este momento porque ya no aguanto más la mala señal entonces necesito que quede cancelado lo más rápido posible, por favor Señora Ángela, le ofrezco disculpas por los inconvenientes con el servicio Permítame, voy a revisar si tiene alguna falla en su servicio y si hay algo que podamos hacer No, la verdad no, en este momento me interesa es cancelarlo lo más rápido posible, por favor Entiendo que quiere cancelar inmediatamente, entonces déjeme proceder con el trámite Espero un momento en la línea, no me cuelgue por favor Vale, sí, no hay problema Ya quedó cancelado, que esté muy bien y hasta luego Ah, ok, perfecto, vale, muchísimas gracias, que estés muy bien;40
+1018;Enojado;Buenos días, gracias por comunicarse con el servicio de cancelaciones de Claro Mi nombre es Jorge, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy Gracias Jorge, hablas con Rosa, lo que pasa es que desde horas de la mañana No sé, tengo intermitencia en el servicio, a veces se va, a veces viene Entonces, pues la verdad no sé qué está pasando No sé si me puedas ayudar por favor a cancelarlo O a ver si hay algún tipo de daño o algo así en mi casa Señora Rosa, lo que pasa es que en este momento hay unas fallas en el sector Que están intentando solucionar los técnicos Ah, ok, entiendo, pero ¿sabes más o menos cuánto tardan o qué es lo que está pasando? Los técnicos me informan que la solución tarda tres horas ¿Desea usted esperar ese tiempo? Pues no sé, ¿por qué? Por temas de trabajo y todo Eso me afecta un montón No sé si hay alguna forma de pronto que ustedes me compensen ese tiempo O algo así, porque la verdad, no sé, me tocaría cancelarlo Pero bueno, sí, dale, si quieres, entonces, pues yo espero Yo espero mientras se soluciona la falla Ok, entiendo, muchas gracias por su comprensión ¿La vamos a compensar con la factura? Este mes totalmente gratis Ah, ok, qué bueno Sí, vale, estaría perfecto, entonces, muchísimas gracias Apenas los técnicos solucionen el problema, recibirá un mensaje de texto a su celular Ah, vale, listo, gracias;41
+1019;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;42
+1020;Neutral;Mi nombre es Daniel, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy;42
+1021;Enojado;Hola Daniel, hablas con Tatiana, lo que pasa es que quiero cancelar ya mi celular porque me robaron anoche, entonces pues ya no tengo forma de utilizar esa línea;42
+1022;Enojado;¿Tú me podrías ayudar por favor? Señora Tatiana, entendemos el motivo de la cancelación y es una pena que le hayan robado el celular;42
+1023;Neutral;Déjeme le cancelo su línea lo más pronto posible;42
+1024;Enojado;Sí, no, justo fue anoche, entonces, sí, qué mal, pero dale, por favor, ayúdame con eso, porque no quiero que de pronto vayan a utilizar esa línea para otras cosas, que de pronto vayan a llamar a mis contactos, que de pronto vayan a hacer algún tipo de robo o algo así, entonces, pues nada, por favor, ayúdame con eso;42
+1025;Neutral;Bueno, y ya mientras;42
+1026;Neutral;Yo consigo otro celular y cuando consiga otro celular me vuelvo a comunicar con ustedes para volver a reactivar mi línea, pero entonces sí, te agradezco, por favor, que sea la cancelación inmediatamente, entonces ayúdame con eso;42
+1027;Neutral;Ya quedó cancelada, también le quisiéramos regalar un 10% descuento en la compra de su siguiente celular con nosotros;42
+1028;Feliz;Ah, qué bueno, muchísimas gracias, de verdad, sí, la idea es que apenas que me paguen yo pueda volver a comprarme, comprar un celular y pues poder utilizar ese bono del 10% que me están regalando;42
+1029;Feliz;Eso sería todo, que esté muy bien;42
+1030;Feliz;Vale, muchísimas gracias, muy amable, señor, que esté muy bien, hasta luego;42
+1031;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;43
+1032;Feliz;Mi nombre es Lina, ¿con quién tengo el gusto de hablar y en qué puedo ayudarle hoy? Gracias Lina, hablas con Ana;43
+1033;Neutral;¿Podrías por favor ayudarme a cancelar mi servicio de música? Gracias, Ana;43
+1034;Enojado;¿Está buscando cancelar la suscripción por completo o está interesada en cambiar a otro plan? No, quiero cancelar por completo, es que ya no lo estuve utilizando tanto como antes;43
+1035;Neutral;Entendido;43
+1036;Neutral;Antes de proceder, ¿podría decirme cuál es la razón principal de la cancelación? Nos ayuda a entender mejor las necesidades de nuestros usuarios;43
+1037;Neutral;Claro, simplemente estoy buscando ajustar un poco mis gastos, reducir todos esos gastos que tengo y pues por ese motivo es que necesito;43
+1038;Neutral;¿Qué puedo hacer en la cancelación del plan? Entiendo;43
+1039;Neutral;Voy a proceder con la cancelación y verificaré si hay algún cargo pendiente o algún detalle adicional que necesite atender;43
+1040;Neutral;¿Puede esperar un momento mientras reviso su cuenta? Sí, claro, no hay ningún problema, yo me quedo acá en la línea;43
+1041;Feliz;Gracias por su paciencia, Ana;43
+1042;Enojado;He cancelado la suscripción y confirmo que no hay cargos adicionales;43
+1043;Feliz;¿Hay algo más en lo que pueda asistirle hoy? No, yo creo que no, eso ya es gran ayuda;43
+1044;Neutral;Más bien, eso sería todo;43
+1045;Feliz;De nada, Ana;43
+1046;Feliz;Agradecemos haber sido su elección;43
+1047;Feliz;Si en el futuro decide volver, estaremos aquí para ayudarle;43
+1048;Feliz;Que tenga un buen día;43
+1049;Feliz;Vale, muchísimas gracias;43
+1050;Neutral;Hasta luego;43
+1051;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;44
+1052;Neutral;Mi nombre es Carolina, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy;44
+1053;Neutral;Gracias, hablas con Ana Rodríguez;44
+1054;Enojado;El motivo es que necesito por favor cancelar mi servicio de telefonía con ustedes;44
+1055;Enojado;Entiendo, lamento escuchar eso;44
+1056;Neutral;Para poder asistirle, necesitaré verificar algunos detalles;44
+1057;Neutral;¿Podría proporcionarme su número de cuenta o nombre completo para poder localizar su información? Sí, el número completo es 986-6543;44
+1058;Feliz;Perfecto, gracias por la información, Ana;44
+1059;Neutral;Señora Ana, ¿está considerando cambiar a otro plan con nosotros o desea cancelar por completo? No, cancelarla por completo, porfa;44
+1060;Enojado;Es que la verdad ya no lo necesito, qué pena;44
+1061;Neutral;Ya ha quedado cancelado;44
+1062;Enojado;Lamentamos verla partir;44
+1063;Neutral;Si en el futuro decide regresar, estaremos aquí para asistirla;44
+1064;Feliz;Que tenga un buen día;44
+1065;Feliz;Vale, listo;44
+1066;Feliz;Muchísimas gracias por tu ayuda, que estés muy bien, muy amable;44
+1067;Neutral;Hola, gracias por comunicarte con el servicio de Claro Cancelaciones;45
+1068;Neutral;Mi nombre es Camila, con quien tengo el gusto de hablar y en quien puedo ayudarle hoy;45
+1069;Neutral;Hablas con Andrés;45
+1070;Enojado;Lo que sucede es que quiero cancelar mi servicio de videos porque se me ha dañado mi televisor;45
+1071;Enojado;Ah, qué mal;45
+1072;Enojado;Lo siento mucho porque se le dañó el televisor;45
+1073;Neutral;¿Podría por favor usted darme su número de documento y también su nombre completo para validar esa información? Mi número de documento es 203412 y mi nombre completo es Andrés García;45
+1074;Feliz;Listo, señor Andrés;45
+1075;Neutral;Entonces déme por favor unos minutos;45
+1076;Neutral;Voy a validar esa información y en un momento me comunico con usted;45
+1077;Neutral;Señor Andrés, he revisado la información y usted tiene en este momento un saldo de 300 mil pesos con nosotros;45
+1078;Neutral;Lo que quiere decir es que para proceder con la cancelación que usted desea, lo primero que tiene que hacer es ponerse al día;45
+1079;Neutral;Y luego proceder con el pago que usted tiene pendiente;45
+1080;Neutral;Una vez haga ese pago, ahí sí podemos proceder con todo el trámite de la cancelación;45
+1081;Neutral;No sabía que tenía un saldo pendiente;45
+1082;Neutral;Haré el pago esta misma tarde y volveré a comunicarme;45
+1083;Neutral;Muchas gracias;45
+1084;Feliz;Vale, claro que sí;45
+1085;Feliz;Listo, señor Andrés;45
+1086;Feliz;Que esté muy bien;45
+1087;Neutral;Hasta luego;45
+1088;Neutral;Hola, gracias por comunicarte con el servicio de cancelaciones de Claro;46
+1089;Neutral;Mi nombre es Cecilia, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy;46
+1090;Enojado;Hablas con María Paula, lo que pasa es que quiero poder cambiar de línea telefónica porque ya este número que tengo no me sirve mucho;46
+1091;Neutral;Entiendo María Paula, ¿podrías darme tu número completo para validar la información? Y también necesitaría el número de celular que deseas cambiar;46
+1092;Neutral;Mi nombre completo es María Paula Pérez y el número de celular es 31282426;46
+1093;Neutral;Listo María Paula, dame por favor unos minutos para realizar el cambio e informarte el nuevo número;46
+1094;Neutral;Ok María Paula, el nuevo número sería 302409824;46
+1095;Neutral;Muchas gracias;46
+1096;Neutral;¿Podrías enviarme? Sí, claro que sí, dame un segundo, ya te voy a enviar el nuevo número al correo que aparece aquí en el sistema;46
+1097;Feliz;Hola, gracias por comunicarte con el servicio al cliente de Claro;47
+1098;Neutral;Mi nombre es Natalia, con quien tengo el gusto y en qué podría ayudarle hoy;47
+1099;Neutral;Hablas con Miguel y quiero actualizar mi plan de televisión porque quiero ver todos los partidos de fútbol;47
+1100;Feliz;Claro que sí, Miguel;47
+1101;Neutral;¿Podrías por favor darme tu nombre completo y tu número de documento para validar la información? Por supuesto;47
+1102;Neutral;Mi nombre es Miguel Pérez Marín y el número de documento es 32404;47
+1103;Feliz;Vale, señor Miguel;47
+1104;Neutral;Un momento, por favor;47
+1105;Neutral;Vamos a validar esos datos;47
+1106;Neutral;Ok, señor Miguel;47
+1107;Neutral;Entonces, según sus datos validados y lo que me arroja aquí en el sistema es que podemos ofrecerle un plan premium por un valor de 100 mil pesos mensuales;47
+1108;Neutral;Quedaría usted con todos los canales, con todo el servicio premium que le ofrece la compañía;47
+1109;Neutral;Y ahí puede ver;47
+1110;Neutral;Y también puede ver los partidos, diferentes deportes, cualquier canal de televisión que usted desee;47
+1111;Neutral;¿Quisiera usted aceptar este plan? Si quiero aceptar ese plan premium y por favor, ¿podría usted enviarme la información del nuevo plan a mi celular? Porque es que después a mí se me olvida esa información;47
+1112;Feliz;Sí, claro que sí;47
+1113;Neutral;¿Podría por favor darme el número de su celular para hacerle llegar la información? Sí, señora;47
+1114;Neutral;Mi número de celular es 412826;47
+1115;Neutral;Ok, señor Miguel;47
+1116;Neutral;Entonces, en un momento le voy a enviar la información y eso sería todo;47
+1117;Neutral;Ok, señor Miguel;47
+1118;Neutral;Entonces, en un momento le voy a enviar la información y eso sería todo;47
+1119;Feliz;Muchísimas gracias por su ayuda;47
+1120;Feliz;Es usted muy amable;47
+1121;Neutral;Aló, muy buenas tardes, hablo con el señor Felipe;48
+1122;Neutral;Hola, sí, buenas tardes, ¿con quién hablo? Con Cris, señor Felipe;48
+1123;Neutral;Don Felipe, lo que pasa es que es para ofrecerle una promoción para que usted pueda adquirir un plan móvil con nosotros;48
+1124;Neutral;No sé si le interese;48
+1125;Neutral;¿De qué se trata? De un plan móvil, don Felipe, ya le dije;48
+1126;Enojado;¿Tiene algún beneficio o algo a nivel económico? Pues, don Felipe, actualmente, ¿cuánto está pagando en el plan que tiene en su celular? Actualmente, me están dando 120 gigas por un valor de 35 mil pesos;48
+1127;Neutral;Ok, don Felipe, pues digamos que nosotros le podemos ofrecer, pues no le podemos ofrecer como lo mismo como tal, pero la promoción es que usted, digamos, las 120 gigas que está manejando, pero por un año usted paga 42 mil pesos;48
+1128;Feliz;Digamos que el beneficio que tiene es que tiene una pantalla de Netflix añadida en este plan y es totalmente gratis;48
+1129;Neutral;No sé si le interese;48
+1130;Enojado;No, no, la verdad no nos interesa en estos momentos;48
+1131;Enojado;Qué fastidio este man;48
+1132;Neutral;¿Perdón? No, no, listo, don Felipe, entonces hasta luego;48
+1133;Neutral;Aló, buenas tardes, hablo con el señor Rafael;49
+1134;Enojado;Hola, buenas tardes, sí, ¿con quién habla? Hola, don Rafael, habla con Camilo, ¿cómo se encuentra el día de hoy? Súper bien, cuéntame, ¿cómo te puedo ayudar? Sí, don Rafael, lo que pasa es que lo llamó de acá, desde el área de cobranza de Claro, lo que pasa es que acá nuestro sistema reporta que usted no ha realizado los pagos, ni de su plan móvil, ni de su plan internet de hogar;49
+1135;Enojado;Entonces, quisiera saber por qué se ha visto ese atraso;49
+1136;Enojado;Pero no entiendo, es que yo hice el pago hace un par de días, no sé por qué no se actualizó en el sistema;49
+1137;Neutral;Sobre todo;49
+1138;Enojado;Don Rafael, no, usted no ha pagado, acá en el sistema me sale que usted no ha pagado;49
+1139;Enojado;Pero es imposible, o sea, si te digo que ya hice el pago, no sé por qué me estás cobrando;49
+1140;Enojado;No, pues, o sea, si acá en mi sistema me sale que no ha pagado, es porque usted sigue en mora con nosotros;49
+1141;Neutral;¿Por qué me dio realizar el pago? Yo lo hice desde mi, bueno, desde mi app bancaria, pero fue por medio de PC;49
+1142;Neutral;Ok, don Rafael, pues hoy 12 de;49
+1143;Enojado;De julio el pago no se ha visto reflejado;49
+1144;Neutral;¿Usted qué, ya realizó el pago? Hace como dos días atrás, más o menos;49
+1145;Neutral;Espérame un momento;49
+1146;Enojado;Qué maricapa, es esta gente que no paga sus cuentas y tras el hecho imputados;49
+1147;Neutral;Perdón, es que, no sé, ¿se está refiriendo a mí, señor? No, don Rafael, ya, don Rafael, permítame un momento;49
+1148;Enojado;Don Rafael, no me refleja ningún pago;49
+1149;Neutral;¿Seguro que usted realizó el pago? Hombre, le estoy diciendo que sí, que hice el pago hace dos días, no sé por qué siempre me;49
+1150;Enojado;Es que si son buenos para cobrar, ustedes no;49
+1151;Neutral;Bueno, Rafael, pues ya acá dejo el comentario;49
+1152;Enojado;Entonces, si el pago se ve reflejado estos días, pues ya no le estarían llegando más mensajes;49
+1153;Neutral;O si no, uno de mis compañeros o yo mismo nos comunicamos el día de mañana con usted para que pague, ¿listo? Bueno, está bien, pues ni modo;49
+1154;Neutral;Si no hay de otra, pues bueno;49
+1155;Neutral;Bueno, hasta luego;49
+1156;Feliz;Hola, buenos días;50
+1157;Neutral;No sé si de pronto marqué las opciones que no eran, pero quisiera comunicarme con la asesora;50
+1158;Neutral;No sé si de pronto me puedas colaborar;50
+1159;Feliz;Hola, buenos días;50
+1160;Neutral;¿Con quién tengo el gusto de hablar? Mira, hablas con Sebastián;50
+1161;Feliz;Claro, don Sebastián;50
+1162;Neutral;¿En qué le puedo ayudar? Mira, lo que pasa es que esta semana o estos días tuve unos inconvenientes porque yo hice la solicitud de una compra de un dispositivo de un móvil para mi casa, pero me llegó la referencia que no correspondía, entonces yo muy amablemente generé un radicado con ustedes y pues había cuadrado que el día de hoy iban a pasar unos chicos, no sé quiénes sean exactamente, pero iban a recoger el dispositivo;50
+1163;Neutral;Entonces, habían cuadrado que iban a llegar a las 8 de la mañana;50
+1164;Neutral;Saqué de mi tiempo porque vivo full ocupado con mi trabajo;50
+1165;Neutral;Bueno, usted necesita que le cambiemos el dispositivo, ¿cierto? Sí;50
+1166;Neutral;Sí, sí, señor;50
+1167;Neutral;Básicamente eso;50
+1168;Neutral;Ok, listo;50
+1169;Neutral;Ya permítame un momento;50
+1170;Neutral;¿Me regala por favor los cuatro números del radicado? Claro que sí;50
+1171;Neutral;0093;50
+1172;Neutral;Ok, permítame un momento;50
+1173;Neutral;Ya valido;50
+1174;Feliz;Vale, muchas gracias;50
+1175;Neutral;Ajá;50
+1176;Enojado;Don Sebastián, acá veo en el sistema que usted no confirmó la hora en la que los chicos pasaban;50
+1177;Neutral;Dice el día, pero usted no confirmó la hora;50
+1178;Enojado;¿Cómo que no? O sea, ¿puede volver a rectificar? Don Sebastián, no;50
+1179;Enojado;No, acá ya me hiciste la hora;50
+1180;Neutral;Sí, pero como que no, creo que ya le sale en la información que no, que efectivamente usted dijo que pasara en el día de hoy, pero no confirmó nunca hora;50
+1181;Neutral;Pero, ¿cómo que no? Si yo hice la gestión como correspondía;50
+1182;Neutral;No, Sebastián;50
+1183;Neutral;Por favor, revise bien en el sistema;50
+1184;Neutral;Don Sebastián, no;50
+1185;Enojado;Aquí en el sistema ya me está reportando que usted no confirmó la hora;50
+1186;Neutral;Entonces, los chicos pueden;50
+1187;Enojado;Son las 12 del mediodía, los chicos pueden pasar hasta las 7 de la noche por su culpa, porque usted no confirmó la hora;50
+1188;Enojado;Ah, es por mi culpa entonces;50
+1189;Enojado;O sea, yo hago la petición y ustedes vienen y me entregan un dispositivo que no corresponde a lo que yo compré;50
+1190;Neutral;Yo entiendo el molestia, don Sebastián, pero también entienda que usted tiene que especificar la hora porque los técnicos tienen que pegarse como al horario que usted ponga;50
+1191;Neutral;Y si usted no pone horario, pues los técnicos lo que hacen es que pueden acercarse en cualquier hora;50
+1192;Neutral;Entonces, pues, ahí sí nada que hacer, don Sebastián;50
+1193;Enojado;De verdad, este servicio al cliente de Claro es una mierda;50
+1194;Enojado;O sea, la verdad, no me colabora, no me llega el dispositivo que compré;50
+1195;Enojado;No me solucionan y ahora el malo del cuento soy yo;50
+1196;Enojado;No, pues, don Sebastián, lo que le digo aquí me notifica que es que usted no especificó la hora;50
+1197;Neutral;Para próximas solicitudes especificar horas;50
+1198;Neutral;Si gusta, le cambiamos la fecha de que vayan a cambiarle el modem y usted me confirma la hora;50
+1199;Feliz;Bueno, está bien;50
+1200;Neutral;Si el señor gusta colaborarme;50
+1201;Neutral;Ay, bueno, sí;50
+1202;Enojado;Qué fastidio este man;50
+1203;Neutral;Bueno, ya permítame un momento y ya cambiamos el día de la entrega;50
+1204;Neutral;¿Listo?;50
+1205;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;51
+1206;Neutral;Mi nombre es Antonia, ¿con quién tengo el gusto de hablar y en qué puedo ayudarle hoy? Hola Antonia, hablas con Aura Lemos;51
+1207;Enojado;El motivo de esta llamada es para ver si me puedes ayudar por favor a cancelar mi cuenta porque los canales están supremamente malos, a veces la señal no coge, se le va el audio, algunos canales se les borra un poco la imagen, entonces pues la verdad estoy muy aburrida con ello y quiero cancelar por favor ese servicio inmediatamente;51
+1208;Enojado;Señora Aura, es una lástima que quiera cancelar el servicio;51
+1209;Neutral;Empezaré la cancelación de su servicio para que quede efectuado el día de hoy;51
+1210;Neutral;Mientras tanto, ¿hay algo que necesite? Ay sí, por favor, muchísimas gracias;51
+1211;Enojado;No, eso sería todo;51
+1212;Neutral;Quiero que eso quede cancelado lo más rápido posible, por favor;51
+1213;Feliz;Gracias por su paciencia, Aura;51
+1214;Neutral;En este momento su cuenta ha sido cancelada, verá reflejado los cambios al colgar esta llamada;51
+1215;Feliz;Vale, muchísimas gracias, que estés bien;51
+1216;Neutral;Hasta luego;51
+1217;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro Mi nombre es Camilo, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy Hola Camilo, hablas con Ángela Piedraíta Básicamente necesito que me ayudes por favor a cancelar el servicio que tengo en este momento porque ya no aguanto más la mala señal entonces necesito que quede cancelado lo más rápido posible, por favor Señora Ángela, le ofrezco disculpas por los inconvenientes con el servicio Permítame, voy a revisar si tiene alguna falla en su servicio y si hay algo que podamos hacer No, la verdad no, en este momento me interesa es cancelarlo lo más rápido posible, por favor Entiendo que quiere cancelar inmediatamente, entonces déjeme proceder con el trámite Espero un momento en la línea, no me cuelgue por favor Vale, sí, no hay problema Ya quedó cancelado, que esté muy bien y hasta luego Ah, ok, perfecto, vale, muchísimas gracias, que estés muy bien;52
+1218;Enojado;Buenos días, gracias por comunicarse con el servicio de cancelaciones de Claro Mi nombre es Jorge, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy Gracias Jorge, hablas con Rosa, lo que pasa es que desde horas de la mañana No sé, tengo intermitencia en el servicio, a veces se va, a veces viene Entonces, pues la verdad no sé qué está pasando No sé si me puedas ayudar por favor a cancelarlo O a ver si hay algún tipo de daño o algo así en mi casa Señora Rosa, lo que pasa es que en este momento hay unas fallas en el sector Que están intentando solucionar los técnicos Ah, ok, entiendo, pero ¿sabes más o menos cuánto tardan o qué es lo que está pasando? Los técnicos me informan que la solución tarda tres horas ¿Desea usted esperar ese tiempo? Pues no sé, ¿por qué? Por temas de trabajo y todo Eso me afecta un montón No sé si hay alguna forma de pronto que ustedes me compensen ese tiempo O algo así, porque la verdad, no sé, me tocaría cancelarlo Pero bueno, sí, dale, si quieres, entonces, pues yo espero Yo espero mientras se soluciona la falla Ok, entiendo, muchas gracias por su comprensión ¿La vamos a compensar con la factura? Este mes totalmente gratis Ah, ok, qué bueno Sí, vale, estaría perfecto, entonces, muchísimas gracias Apenas los técnicos solucionen el problema, recibirá un mensaje de texto a su celular Ah, vale, listo, gracias;53
+1219;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;54
+1220;Neutral;Mi nombre es Daniel, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy;54
+1221;Enojado;Hola Daniel, hablas con Tatiana, lo que pasa es que quiero cancelar ya mi celular porque me robaron anoche, entonces pues ya no tengo forma de utilizar esa línea;54
+1222;Enojado;¿Tú me podrías ayudar por favor? Señora Tatiana, entendemos el motivo de la cancelación y es una pena que le hayan robado el celular;54
+1223;Neutral;Déjeme le cancelo su línea lo más pronto posible;54
+1224;Enojado;Sí, no, justo fue anoche, entonces, sí, qué mal, pero dale, por favor, ayúdame con eso, porque no quiero que de pronto vayan a utilizar esa línea para otras cosas, que de pronto vayan a llamar a mis contactos, que de pronto vayan a hacer algún tipo de robo o algo así, entonces, pues nada, por favor, ayúdame con eso;54
+1225;Neutral;Bueno, y ya mientras;54
+1226;Neutral;Yo consigo otro celular y cuando consiga otro celular me vuelvo a comunicar con ustedes para volver a reactivar mi línea, pero entonces sí, te agradezco, por favor, que sea la cancelación inmediatamente, entonces ayúdame con eso;54
+1227;Neutral;Ya quedó cancelada, también le quisiéramos regalar un 10% descuento en la compra de su siguiente celular con nosotros;54
+1228;Feliz;Ah, qué bueno, muchísimas gracias, de verdad, sí, la idea es que apenas que me paguen yo pueda volver a comprarme, comprar un celular y pues poder utilizar ese bono del 10% que me están regalando;54
+1229;Feliz;Eso sería todo, que esté muy bien;54
+1230;Feliz;Vale, muchísimas gracias, muy amable, señor, que esté muy bien, hasta luego;54
+1231;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;55
+1232;Feliz;Mi nombre es Lina, ¿con quién tengo el gusto de hablar y en qué puedo ayudarle hoy? Gracias Lina, hablas con Ana;55
+1233;Neutral;¿Podrías por favor ayudarme a cancelar mi servicio de música? Gracias, Ana;55
+1234;Enojado;¿Está buscando cancelar la suscripción por completo o está interesada en cambiar a otro plan? No, quiero cancelar por completo, es que ya no lo estuve utilizando tanto como antes;55
+1235;Neutral;Entendido;55
+1236;Neutral;Antes de proceder, ¿podría decirme cuál es la razón principal de la cancelación? Nos ayuda a entender mejor las necesidades de nuestros usuarios;55
+1237;Neutral;Claro, simplemente estoy buscando ajustar un poco mis gastos, reducir todos esos gastos que tengo y pues por ese motivo es que necesito;55
+1238;Neutral;¿Qué puedo hacer en la cancelación del plan? Entiendo;55
+1239;Neutral;Voy a proceder con la cancelación y verificaré si hay algún cargo pendiente o algún detalle adicional que necesite atender;55
+1240;Neutral;¿Puede esperar un momento mientras reviso su cuenta? Sí, claro, no hay ningún problema, yo me quedo acá en la línea;55
+1241;Feliz;Gracias por su paciencia, Ana;55
+1242;Enojado;He cancelado la suscripción y confirmo que no hay cargos adicionales;55
+1243;Feliz;¿Hay algo más en lo que pueda asistirle hoy? No, yo creo que no, eso ya es gran ayuda;55
+1244;Neutral;Más bien, eso sería todo;55
+1245;Feliz;De nada, Ana;55
+1246;Feliz;Agradecemos haber sido su elección;55
+1247;Feliz;Si en el futuro decide volver, estaremos aquí para ayudarle;55
+1248;Feliz;Que tenga un buen día;55
+1249;Feliz;Vale, muchísimas gracias;55
+1250;Neutral;Hasta luego;55
+1251;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;56
+1252;Neutral;Mi nombre es Paula, ¿con quién tengo el gusto de hablar y en qué puedo ayudarle hoy? Hola, hablas con Carolina;56
+1253;Neutral;¿Podrías ayudarme por favor a suspender el servicio de celular que tengo con ustedes, por favor? Gracias, Carolina;56
+1254;Neutral;¿Está buscando cancelar la membresía por completo o está considerando pausarla temporalmente? No, cancelarla por completo;56
+1255;Enojado;Es que la verdad ya no estoy utilizándola, entonces prácticamente eso siempre está ahí pausado y yo no;56
+1256;Enojado;pues nadie en mi familia lo está usando;56
+1257;Neutral;Entonces necesito cancelarla lo más pronto posible;56
+1258;Neutral;Comprendo;56
+1259;Neutral;Voy a proceder con la cancelación;56
+1260;Neutral;Sí, por favor, ayúdame con eso para que quede;56
+1261;Neutral;Para que quede;56
+1262;Neutral;Esta misma semana;56
+1263;Enojado;Ya ha quedado cancelado el servicio;56
+1264;Neutral;Por favor verifique la información el día viernes;56
+1265;Feliz;Ah, vale, listo, perfecto;56
+1266;Feliz;Muchísimas gracias, que esté muy bien;56
+1267;Neutral;Hasta luego;56
+1268;Neutral;Hola, gracias por comunicarse con el servicio de cancelaciones de Claro;57
+1269;Neutral;Mi nombre es Carolina, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy;57
+1270;Neutral;Gracias, hablas con Ana Rodríguez;57
+1271;Enojado;El motivo es que necesito por favor cancelar mi servicio de telefonía con ustedes;57
+1272;Enojado;Entiendo, lamento escuchar eso;57
+1273;Neutral;Para poder asistirle, necesitaré verificar algunos detalles;57
+1274;Neutral;¿Podría proporcionarme su número de cuenta o nombre completo para poder localizar su información? Sí, el número completo es 986-6543;57
+1275;Feliz;Perfecto, gracias por la información, Ana;57
+1276;Neutral;Señora Ana, ¿está considerando cambiar a otro plan con nosotros o desea cancelar por completo? No, cancelarla por completo, porfa;57
+1277;Enojado;Es que la verdad ya no lo necesito, qué pena;57
+1278;Neutral;Ya ha quedado cancelado;57
+1279;Enojado;Lamentamos verla partir;57
+1280;Neutral;Si en el futuro decide regresar, estaremos aquí para asistirla;57
+1281;Feliz;Que tenga un buen día;57
+1282;Feliz;Vale, listo;57
+1283;Feliz;Muchísimas gracias por tu ayuda, que estés muy bien, muy amable;57
+1284;Neutral;Hola, gracias por comunicarte con el servicio de Claro Cancelaciones;58
+1285;Neutral;Mi nombre es Camila, con quien tengo el gusto de hablar y en quien puedo ayudarle hoy;58
+1286;Neutral;Hablas con Andrés;58
+1287;Enojado;Lo que sucede es que quiero cancelar mi servicio de videos porque se me ha dañado mi televisor;58
+1288;Enojado;Ah, qué mal;58
+1289;Enojado;Lo siento mucho porque se le dañó el televisor;58
+1290;Neutral;¿Podría por favor usted darme su número de documento y también su nombre completo para validar esa información? Mi número de documento es 203412 y mi nombre completo es Andrés García;58
+1291;Feliz;Listo, señor Andrés;58
+1292;Neutral;Entonces déme por favor unos minutos;58
+1293;Neutral;Voy a validar esa información y en un momento me comunico con usted;58
+1294;Neutral;Señor Andrés, he revisado la información y usted tiene en este momento un saldo de 300 mil pesos con nosotros;58
+1295;Neutral;Lo que quiere decir es que para proceder con la cancelación que usted desea, lo primero que tiene que hacer es ponerse al día;58
+1296;Neutral;Y luego proceder con el pago que usted tiene pendiente;58
+1297;Neutral;Una vez haga ese pago, ahí sí podemos proceder con todo el trámite de la cancelación;58
+1298;Neutral;No sabía que tenía un saldo pendiente;58
+1299;Neutral;Haré el pago esta misma tarde y volveré a comunicarme;58
+1300;Neutral;Muchas gracias;58
+1301;Feliz;Vale, claro que sí;58
+1302;Feliz;Listo, señor Andrés;58
+1303;Feliz;Que esté muy bien;58
+1304;Neutral;Hasta luego;58
+1305;Neutral;Hola, gracias por comunicarte con el servicio de cancelaciones de Claro;59
+1306;Neutral;Mi nombre es Cecilia, con quien tengo el gusto de hablar y en qué puedo ayudarle hoy;59
+1307;Enojado;Hablas con María Paula, lo que pasa es que quiero poder cambiar de línea telefónica porque ya este número que tengo no me sirve mucho;59
+1308;Neutral;Entiendo María Paula, ¿podrías darme tu número completo para validar la información? Y también necesitaría el número de celular que deseas cambiar;59
+1309;Neutral;Mi nombre completo es María Paula Pérez y el número de celular es 31282426;59
+1310;Neutral;Listo María Paula, dame por favor unos minutos para realizar el cambio e informarte el nuevo número;59
+1311;Neutral;Ok María Paula, el nuevo número sería 302409824;59
+1312;Neutral;Muchas gracias;59
+1313;Neutral;¿Podrías enviarme? Sí, claro que sí, dame un segundo, ya te voy a enviar el nuevo número al correo que aparece aquí en el sistema;59
+1314;Feliz;Hola, gracias por comunicarte con el servicio al cliente de Claro;60
+1315;Neutral;Mi nombre es Natalia, con quien tengo el gusto y en qué podría ayudarle hoy;60
+1316;Neutral;Hablas con Miguel y quiero actualizar mi plan de televisión porque quiero ver todos los partidos de fútbol;60
+1317;Feliz;Claro que sí, Miguel;60
+1318;Neutral;¿Podrías por favor darme tu nombre completo y tu número de documento para validar la información? Por supuesto;60
+1319;Neutral;Mi nombre es Miguel Pérez Marín y el número de documento es 32404;60
+1320;Feliz;Vale, señor Miguel;60
+1321;Neutral;Un momento, por favor;60
+1322;Neutral;Vamos a validar esos datos;60
+1323;Neutral;Ok, señor Miguel;60
+1324;Neutral;Entonces, según sus datos validados y lo que me arroja aquí en el sistema es que podemos ofrecerle un plan premium por un valor de 100 mil pesos mensuales;60
+1325;Neutral;Quedaría usted con todos los canales, con todo el servicio premium que le ofrece la compañía;60
+1326;Neutral;Y ahí puede ver;60
+1327;Neutral;Y también puede ver los partidos, diferentes deportes, cualquier canal de televisión que usted desee;60
+1328;Neutral;¿Quisiera usted aceptar este plan? Si quiero aceptar ese plan premium y por favor, ¿podría usted enviarme la información del nuevo plan a mi celular? Porque es que después a mí se me olvida esa información;60
+1329;Feliz;Sí, claro que sí;60
+1330;Neutral;¿Podría por favor darme el número de su celular para hacerle llegar la información? Sí, señora;60
+1331;Neutral;Mi número de celular es 412826;60
+1332;Neutral;Ok, señor Miguel;60
+1333;Neutral;Entonces, en un momento le voy a enviar la información y eso sería todo;60
+1334;Neutral;Ok, señor Miguel;60
+1335;Neutral;Entonces, en un momento le voy a enviar la información y eso sería todo;60
+1336;Feliz;Muchísimas gracias por su ayuda;60
+1337;Feliz;Es usted muy amable;60
+1329;Feliz;Sí, claro que sí;60
+1330;Neutral;¿Podría por favor darme el número de su celular para hacerle llegar la información? Sí, señora;60
+1331;Neutral;Mi número de celular es 412826;60
+1332;Neutral;Ok, señor Miguel;60
+1333;Neutral;Entonces, en un momento le voy a enviar la información y eso sería todo;60
+1334;Neutral;Ok, señor Miguel;60
+1335;Neutral;Entonces, en un momento le voy a enviar la información y eso sería todo;60
+1336;Feliz;Muchísimas gracias por su ayuda;60
+1337;Feliz;Es usted muy amable;60
+1329;Feliz;Sí, claro que sí;60
+1330;Neutral;¿Podría por favor darme el número de su celular para hacerle llegar la información? Sí, señora;60
+1331;Neutral;Mi número de celular es 412826;60
+1332;Neutral;Ok, señor Miguel;64
+1333;Neutral;Entonces, en un momento le voy a enviar la información y eso sería todo;60
+1334;Neutral;Ok, señor Miguel;63
+1335;Neutral;Entonces, en un momento le voy a enviar la información y eso sería todo;60
+1336;Feliz;Muchísimas gracias por su ayuda;62
+1337;Feliz;Es usted muy amable;61

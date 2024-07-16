@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title> Reporte detección de emociones IA</title>
+    <meta
+      charset="UTF-8"
+      content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+      name="viewport"/>
+      
+    <link
+      rel="icon"
+      href="assets/img/Emoticons/favicon.png"
+      type="image/x-icon"/>
+
+    <!-- Fonts and icons -->
+    <script src="assets/js/plugin/webfont/webfont.min.js"></script>
+    <script>
+
+      WebFont.load({
+        google: { families: ["Public Sans:300,400,500,600,700"] },
+        custom: {
+          families: [
+            "Font Awesome 5 Solid",
+            "Font Awesome 5 Regular",
+            "Font Awesome 5 Brands",
+            "simple-line-icons",
+          ],
+          urls: ["assets/css/fonts.min.css"],
+        },
+        active: function () {
+          sessionStorage.fonts = true;
+        },
+      });
+    </script>
+    <script src="./assets/js/archivo.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.1/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="assets/css/plugins.min.css" />
+    <link rel="stylesheet" href="assets/css/kaiadmin.min.css" />
+
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link rel="stylesheet" href="assets/css/demo.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <!-- Sidebar -->
+      <div class="sidebar" data-background-color="dark">
+        <div class="sidebar-logo">
+          <!-- Logo Header -->
+          <div class="logo-header" data-background-color="dark">
+            <a href="index.html" class="logo">
+              <img
+                src="assets/img/Emoticons/Emoticon.png"
+                alt="navbar brand"
+                class="navbar-brand"
+                height="55"
+
+              />
+            </a>
+            <div class="nav-toggle">
+              <button class="btn btn-toggle toggle-sidebar">
+                <i class="gg-menu-right"></i>
+              </button>
+              <button class="btn btn-toggle sidenav-toggler">
+                <i class="gg-menu-left"></i>
+              </button>
+            </div>
+            <button class="topbar-toggler more">
+              <i class="gg-more-vertical-alt"></i>
+            </button>
+          </div>
+          <!-- End Logo Header -->
+        </div>
+        <div class="sidebar-wrapper scrollbar scrollbar-inner">
+          <div class="sidebar-content">
+            <ul class="nav nav-secondary">
+              <li class="nav-item active">
+                <a
+                  data-bs-toggle="collapse"
+                  href="#dashboard"
+                  class="collapsed"
+                  aria-expanded="false"
+                >
+                  <i class="fas fa-home"></i>
+                  <p>Reporte</p>
+                </a>
+                <div class="collapse" id="dashboard">
+                  <ul class="nav nav-collapse">
+                    <li>
+                      <a href="../demo1/index.html">
+                        <span class="sub-item">Dashboard 1</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="nav-section">
+                <span class="sidebar-mini-icon">
+                  <i class="fa fa-ellipsis-h"></i>
+                </span>
+              </li>
+
+              <!-- <li class="nav-item">
+                <a href="widgets.html">
+                  <i class="fas fa-desktop"></i>
+                  <p>Widgets</p>
+                  <span class="badge badge-success">4</span>
+                </a>
+              </li> -->
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- End Sidebar -->
+
+      <div class="main-panel">
+        <div class="main-header">
+          <div class="main-header-logo">
+            <!-- Logo Header -->
+            <div class="logo-header" data-background-color="dark">
+              <a href="index.html" class="logo">
+                <img
+                  src="assets/img/kaiadmin/Emoticon.png"
+                  alt="navbar brand"
+                  class="navbar-brand"
+                  height="20"
+                />
+              </a>
+              <div class="nav-toggle">
+                <button class="btn btn-toggle toggle-sidebar">
+                  <i class="gg-menu-right"></i>
+                </button>
+                <button class="btn btn-toggle sidenav-toggler">
+                  <i class="gg-menu-left"></i>
+                </button>
+              </div>
+              <button class="topbar-toggler more">
+                <i class="gg-more-vertical-alt"></i>
+              </button>
+            </div>
+            <!-- End Logo Header -->
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="page-inner">
+            <div
+              class="d-flex align-items-left align-items-md-center flex-column flex-md-row pt-2 pb-4">
+              <div>
+                <h3 class="fw-bold mb-3">Reporte detección de emociones IA</h3>
+                <h6 class="op-7 mb-2">Emociones</h6>
+              </div>
+              
+
+            </div>
+            <div class="row row-card-no-pd mt--2">
+              <div class="card">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <div>
+                      <h5><b>Total audios analizados </b></h5>
+                    </div>
+                    <h3 class="text-success fw-bold"><span id="total-registros-audios">0</span></h3>
+                  </div>
+                  <div class="progress progress-sm">
+                    <div
+                      class="progress-bar bg-success w-100"
+                      role="progressbar"
+                      aria-valuenow="25"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                    ></div>
+                  </div>
+                  <div class="d-flex justify-content-between mt-2">
+                    <p class="text-muted mb-0">100%</p>
+                  </div>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-body">
+                  <div class="d-flex justify-content-between">
+                    <div>
+                      <h5><b>Total frases analizadas</b></h5>
+                    </div>
+                    <h3 class="text-secondary fw-bold"><span id="total-frases">0</span></h3>
+                  </div>
+                  <div class="progress progress-sm">
+                    <div
+                      class="progress-bar bg-secondary w-100"
+                      role="progressbar"
+                      aria-valuenow="25"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                    ></div>
+                  </div>
+                  <div class="d-flex justify-content-between mt-2">
+                    <p class="text-muted mb-0">100%</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-xl-3">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                      <div>
+                        <h5><b># Total frases Neutral</b></h5>
+                        <p class="text-muted">Frases analizadas</p>
+                      </div>
+                      <h3 class="text-info fw-bold"><span id="total-registros-neutral">0</span></h3>
+                    </div>
+                    <div class="progress progress-sm">
+                      <div
+                        class="progress-bar bg-info " id="progress-neutral"
+                        role="progressbar"
+                        aria-valuenow="35"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                      ></div>
+                    </div>
+                    <div class="d-flex justify-content-between mt-35">
+                      <p class="text-muted mb-0">Porcentaje</p>
+                      <p class="text-muted mb-0"><span id="porcentaje-neutral">0%</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-xl-3">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                      <div>
+                        <h5><b># Total frases Feliz</b></h5>
+                        <p class="text-muted">Frases analizadas</p>
+                      </div>
+                      <h3 class="text-warning fw-bold"><span id="total-registros-feliz">0</span></h3>
+                    </div>
+                    <div class="progress progress-sm">
+                      <div
+                        class="progress-bar bg-warning" id="progress-feliz"
+                        role="progressbar"
+                        aria-valuenow="25"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                      ></div>
+                    </div>
+                    <div class="d-flex justify-content-between mt-2">
+                      <p class="text-muted mb-0">Porcentaje</p>
+                      <p class="text-muted mb-0"><span id="porcentaje-feliz">0%</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-xl-3">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                      <div>
+                        <h5><b># Total frases Enojado</b></h5>
+                        <p class="text-muted">Frases analizadas</p>
+                      </div>
+                      <h3 class="text-danger fw-bold"><span id="total-registros-enojado">0</span></h3>
+                    </div>
+                    <div class="progress progress-sm">
+                      <div
+                        class="progress-bar bg-danger "id="progress-enojado"
+                        aria-valuenow="50"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                      ></div>
+                    </div>
+                    <div class="d-flex justify-content-between mt-2">
+                      <p class="text-muted mb-0">Porcentaje</p>
+                      <p class="text-muted mb-0"><span id="porcentaje-enojado">0%</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-sm-6 col-md-6 col-xl-3">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                      <div>
+                        <h5><b># Total frases no identificadas</b></h5>
+                        <p class="text-muted">Frases analizadas</p>
+                      </div>
+                      <h3 class="text-secondary fw-bold"><span id="total-registros-NoIdent">0</span></h3>
+                    </div>
+                    <div class="progress progress-sm">
+                      <div
+                        class="progress-bar bg-secondary"id="progress-NoIdent"
+                        role="progressbar"
+                        aria-valuenow="25"
+                        aria-valuemin="0"
+                        aria-valuemax="100"
+                      ></div>
+                    </div>
+                    <div class="d-flex justify-content-between mt-2">
+                      <p class="text-muted mb-0">Porcentaje</p>
+                      <p class="text-muted mb-0"><span id="porcentaje-noIdent">0%</span></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+                <!-- TimeLine -->
+                <h3 class="fw-bold mb-3">Frases mas concurrentes</h3>
+                <div class="col-md-12">
+                  <ul class="timeline">
+                    <li>
+                      <div class="timeline-badge">
+                        <i class="bi bi-emoji-neutral"></i>
+                      </div>
+                      <div class="timeline-panel">
+                        <div class="timeline-heading">
+                          <h4 class="timeline-title">Frase Neutral</h4>
+                          <p>
+                            <small class="text-muted"
+                              ><i class="bi bi-emoji-neutral"></i> Frases aleatorias de la categoria neutral</small
+                            >
+                          </p>
+                        </div>
+                        <div class="timeline-body">
+                          <p id="frase-aleatoria-neutral">N/A></p>
+                        </div>
+                      </div>
+                    </li>
+                    
+                    <li class="timeline-inverted">
+                      <div class="timeline-badge warning">
+                        <i class="bi bi-emoji-smile"></i>
+                      </div>
+                      <div class="timeline-panel">
+                        <div class="timeline-heading">
+                          <h4 class="timeline-title">Frase Feliz</h4>
+                          <p>
+                            <small class="text-muted"
+                              ><i class="bi bi-emoji-smile"></i> Frases aleatorias de la categoria feliz</small
+                            >
+                          </p>
+                        </div>
+                        <div class="timeline-body"> 
+                            <p id="frase-aleatoria-feliz">N/A></p>  
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="timeline-badge danger">
+                        <i class="bi bi-emoji-angry"></i>
+                      </div>
+                      <div class="timeline-panel">
+                        <div class="timeline-heading">
+                          <h4 class="timeline-title">Frase Enojado</h4>
+                          <p>
+                            <small class="text-muted"
+                              ><i class="bi bi-emoji-angry"></i> Frases aleatorias de la categoria enojado</small
+                            >
+                          </p>
+                        </div>
+                        <div class="timeline-body"> 
+                            <p id="frase-aleatoria-enojado">N/A></p>  
+                        </div>
+                      </div>
+                    </li>
+                    <li class="timeline-inverted">
+                      <div class="timeline-badge success">
+                        <i class="icon-close"></i>
+                      </div>
+                      <div class="timeline-panel">
+                        <div class="timeline-heading">
+                          <h4 class="timeline-title">Frase no identificada</h4>
+                        </div>
+                        <div class="timeline-body"> 
+                          <p id="frase-aleatoria-NoIdent">N/A></p>  
+                      </div>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+            </div>
+
+<!-- 
+        <footer class="footer">
+          <div class="container-fluid d-flex justify-content-between">
+            <nav class="pull-left">
+              <ul class="nav">
+                <li class="nav-item">
+                  <a class="nav-link" href="http://www.themekita.com">
+                    ThemeKita
+                  </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"> Help </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"> Licenses </a>
+                </li>
+              </ul>
+            </nav>
+            <div class="copyright">
+              2024, made with <i class="fa fa-heart heart text-danger"></i> by
+              <a href="http://www.themekita.com">ThemeKita</a>
+            </div>
+            <div>
+              Distributed by
+              <a target="_blank" href="https://themewagon.com/">ThemeWagon</a>.
+            </div>
+          </div>
+        </footer> -->
+      </div>  
+    </div>
+    <!--   Core JS Files   -->
+    <script src="assets/js/core/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/core/popper.min.js"></script>
+    <script src="assets/js/core/bootstrap.min.js"></script>
+
+    <!-- jQuery Scrollbar -->
+    <script src="assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"></script>
+
+    <!-- Chart JS -->
+    <script src="assets/js/plugin/chart.js/chart.min.js"></script>
+
+    <!-- jQuery Sparkline -->
+    <script src="assets/js/plugin/jquery.sparkline/jquery.sparkline.min.js"></script>
+
+    <!-- Chart Circle -->
+    <script src="assets/js/plugin/chart-circle/circles.min.js"></script>
+
+    <!-- Datatables -->
+    <script src="assets/js/plugin/datatables/datatables.min.js"></script>
+
+    <!-- Bootstrap Notify -->
+    <script src="assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js"></script>
+
+    <!-- jQuery Vector Maps -->
+    <script src="assets/js/plugin/jsvectormap/jsvectormap.min.js"></script>
+    <script src="assets/js/plugin/jsvectormap/world.js"></script>
+
+    <!-- Sweet Alert -->
+    <script src="assets/js/plugin/sweetalert/sweetalert.min.js"></script>
+
+    <!-- Kaiadmin JS -->
+    <script src="assets/js/kaiadmin.min.js"></script>
+
+    <!-- Kaiadmin DEMO methods, don't include it in your project! -->
+    <script src="assets/js/setting-demo.js"></script>
+    <script src="assets/js/demo.js"></script>
+    <script>
+      $("#lineChart").sparkline([102, 109, 120, 99, 110, 105, 115], {
+        type: "line",
+        height: "70",
+        width: "100%",
+        lineWidth: "2",
+        lineColor: "#177dff",
+        fillColor: "rgba(23, 125, 255, 0.14)",
+      });
+
+      $("#lineChart2").sparkline([99, 125, 122, 105, 110, 124, 115], {
+        type: "line",
+        height: "70",
+        width: "100%",
+        lineWidth: "2",
+        lineColor: "#f3545d",
+        fillColor: "rgba(243, 84, 93, .14)",
+      });
+
+      $("#lineChart3").sparkline([105, 103, 123, 100, 95, 105, 115], {
+        type: "line",
+        height: "70",
+        width: "100%",
+        lineWidth: "2",
+        lineColor: "#ffa534",
+        fillColor: "rgba(255, 165, 52, .14)",
+      });
+    </script>
+  </body>
+</html>
