@@ -3,4 +3,5 @@
 npm install bootstrap
 
 // Levantar el servidor
+npm install -g live-server
 live-server
