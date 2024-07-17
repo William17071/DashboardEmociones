@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Transcripción y Detección de Emociones</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .neutral {
+            color: green;
+        }
+        .feliz {
+            color: blue;
+        }
+        .enojado {
+            color: red;
+        }
+        #emotion {
+            font-weight: bold;
+        }
+        #transcription, #partial_transcription, #suggestion {
+            background-color: #fff;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        #suggestion_history {
+            max-height: 300px;
+            overflow-y: scroll;
+            background-color: #fff;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .suggestion_item {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Transcripción y Detección de Emociones</h1>
+    <p>Emoción (Vokaturi): <span id="emotion" class="neutral">Neutral</span></p>
+    <p>Transcripción:</p>
+    <p id="transcription"></p>
+    <p>Transcripción Parcial:</p>
+    <p id="partial_transcription"></p>
+    <p>Sugerencia:</p>
+    <p id="suggestion"></p>
+    <p>Historial de Sugerencias:</p>
+    <div id="suggestion_history"></div>
+
+    <script>
+        function fetchTranscriptionData() {
+            fetch('/transcription')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('emotion').textContent = data.emotion;
+                    document.getElementById('emotion').className = data.emotion_color;
+                    document.getElementById('transcription').innerHTML = data.text;
+                    document.getElementById('partial_transcription').innerHTML = data.partial_text;
+                    document.getElementById('suggestion').innerHTML = `<strong>Texto del cliente:</strong> ${data.text} <br><strong>Sugerencias:</strong> ${data.suggestion}`;
+                    
+                    let suggestionHistory = document.getElementById('suggestion_history');
+                    suggestionHistory.innerHTML = '';
+                    data.suggestion_history.forEach((item, index) => {
+                        let suggestionItem = document.createElement('div');
+                        suggestionItem.className = 'suggestion_item';
+                        suggestionItem.innerHTML = `<strong>${index + 1}. Texto del cliente:</strong> ${data.text} <br><strong>Sugerencias:</strong> ${item}`;
+                        suggestionHistory.appendChild(suggestionItem);
+                    });
+                })
+                .catch(error => console.error('Error:', error));
+        }
+
+        setInterval(fetchTranscriptionData, 1000);
+    </script>
+</body>
+</html>
